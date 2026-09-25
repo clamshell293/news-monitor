@@ -1,54 +1,126 @@
-import json, re, urllib.request, html
+import json
+import subprocess
 from pathlib import Path
 
 CHANNELS = {
-    "abc": ("ABC News Australia", "UCVgO39Bk5sMo66-6o6Spn6Q"),
-    "nbc": ("NBC News NOW", "UCeY0bbntWzzVIaj2z3QigXg"),
-    "global": ("寰宇新聞", "UCp2f7tGJGN6R9Muxipem8Nw"),
-    "tbs": ("TBS NEWS DIG", "UC6AG81pAkf6Lbi_1VC5NmPA"),
+    "abc": {
+        "title": "ABC News Australia",
+        "channel_id": "UCVgO39Bk5sMo66-6o6Spn6Q",
+    },
+    "cnn": {
+        "title": "CNN",
+        "channel_id": "UCupvZG-5ko_eiXAupbDfxWw",
+    },
+    "global": {
+        "title": "寰宇新聞",
+        "channel_id": "UCp2f7tGJGN6R9Muxipem8Nw",
+    },
+    "tbs": {
+        "title": "TBS NEWS DIG",
+        "channel_id": "UC6AG81pAkf6Lbi_1VC5NmPA",
+    },
 }
 
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"
+STREAMS_PATH = Path("streams.json")
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language":"en-US,en;q=0.9"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read().decode("utf-8", errors="ignore")
-
-def current_live_video(channel_id):
-    # YouTube's /live endpoint redirects to the active livestream when one exists.
-    req = urllib.request.Request(f"https://www.youtube.com/channel/{channel_id}/live", headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        final = r.geturl()
-        body = r.read().decode("utf-8", errors="ignore")
-    m = re.search(r"[?&]v=([A-Za-z0-9_-]{11})", final)
-    if m: return m.group(1)
-    # Fallbacks for pages that render the current watch id in HTML.
-    patterns = [
-        r'"videoId":"([A-Za-z0-9_-]{11})"',
-        r'watch\?v=([A-Za-z0-9_-]{11})',
+def run_yt_dlp(url, flat=False):
+    cmd = [
+        "yt-dlp",
+        "--dump-single-json",
+        "--no-warnings",
+        "--ignore-errors",
     ]
-    for pat in patterns:
-        m = re.search(pat, body)
-        if m: return m.group(1)
+    if flat:
+        cmd += ["--flat-playlist", "--playlist-end", "40"]
+    cmd.append(url)
+
+    p = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    if p.returncode != 0 or not p.stdout.strip():
+        return None
+
+    try:
+        return json.loads(p.stdout)
+    except json.JSONDecodeError:
+        return None
+
+def find_live_from_streams(channel_id):
+    """Inspect the channel's Streams tab and accept only entries explicitly marked live."""
+    url = f"https://www.youtube.com/channel/{channel_id}/streams"
+    data = run_yt_dlp(url, flat=True)
+    if not data:
+        return ""
+
+    entries = data.get("entries") or []
+    for entry in entries:
+        if not entry:
+            continue
+
+        # yt-dlp commonly reports active streams as live_status == "is_live".
+        if entry.get("live_status") == "is_live":
+            vid = entry.get("id")
+            if vid:
+                return vid
+
+    # Some flat-playlist entries omit live_status, so validate candidates individually.
+    for entry in entries[:15]:
+        if not entry:
+            continue
+        vid = entry.get("id")
+        if not vid:
+            continue
+        details = run_yt_dlp(f"https://www.youtube.com/watch?v={vid}", flat=False)
+        if details and details.get("is_live") is True and details.get("live_status") == "is_live":
+            return vid
+
     return ""
 
-out = {}
-old_path = Path("streams.json")
+def find_live_from_live_endpoint(channel_id):
+    """Fallback: validate the channel /live endpoint, but never accept a non-live video."""
+    data = run_yt_dlp(f"https://www.youtube.com/channel/{channel_id}/live", flat=False)
+    if not data:
+        return ""
+
+    if data.get("is_live") is True and data.get("live_status") == "is_live":
+        return data.get("id") or ""
+
+    return ""
+
+def get_current_live(channel_id):
+    vid = find_live_from_streams(channel_id)
+    if vid:
+        return vid
+    return find_live_from_live_endpoint(channel_id)
+
 old = {}
-if old_path.exists():
-    try: old = json.loads(old_path.read_text(encoding="utf-8"))
-    except Exception: pass
-
-for key, (title, cid) in CHANNELS.items():
-    vid = ""
+if STREAMS_PATH.exists():
     try:
-        vid = current_live_video(cid)
-    except Exception as e:
-        print(f"{key}: lookup failed: {e}")
-    if not vid:
-        vid = (old.get(key) or {}).get("video_id", "")
-    out[key] = {"title": title, "video_id": vid}
-    print(key, vid)
+        old = json.loads(STREAMS_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        old = {}
 
-old_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+out = {}
+
+for key, info in CHANNELS.items():
+    title = info["title"]
+    channel_id = info["channel_id"]
+
+    try:
+        vid = get_current_live(channel_id)
+    except Exception as exc:
+        print(f"{key}: lookup error: {exc}")
+        vid = ""
+
+    # Important: do NOT substitute a random ordinary video.
+    # If there is no verified live stream, write an empty value.
+    out[key] = {
+        "title": title,
+        "video_id": vid,
+        "status": "live" if vid else "offline",
+    }
+
+    print(f"{key}: {vid or 'NO VERIFIED LIVE STREAM'}")
+
+STREAMS_PATH.write_text(
+    json.dumps(out, ensure_ascii=False, indent=2),
+    encoding="utf-8"
+)

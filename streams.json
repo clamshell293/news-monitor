@@ -1,18 +1,22 @@
 {
   "abc": {
     "title": "ABC News Australia",
-    "video_id": "BqHJisgxu_g"
+    "video_id": "",
+    "status": "offline"
   },
-  "nbc": {
-    "title": "NBC News NOW",
-    "video_id": "8VZkLRotXFg"
+  "cnn": {
+    "title": "CNN",
+    "video_id": "",
+    "status": "offline"
   },
   "global": {
     "title": "寰宇新聞",
-    "video_id": "6IquAgfvYmc"
+    "video_id": "",
+    "status": "offline"
   },
   "tbs": {
     "title": "TBS NEWS DIG",
-    "video_id": "Anr15FA9OCI"
+    "video_id": "",
+    "status": "offline"
   }
 }
