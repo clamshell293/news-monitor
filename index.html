@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta http-equiv="Cache-Control" content="no-store, max-age=0" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Cache-Control" content="no-store, max-age=0">
 <title>News Monitor</title>
 <style>
 :root{--bg:#0b0d10;--panel:#11151a;--line:#2a3138;--text:#f3f5f7;--muted:#9ca7b1}
@@ -56,6 +56,7 @@ function toggleFocus(btn){
   const grid=document.getElementById('grid');
   const card=btn.closest('.card');
   const focused=grid.classList.contains('focus');
+
   if(focused){
     document.querySelectorAll('.card').forEach(c=>c.classList.remove('active'));
     grid.classList.remove('focus');
@@ -75,11 +76,14 @@ fetch('./streams.json?t=' + Date.now(), {cache:'no-store'})
     const p=card.querySelector('.player');
     const item=data[key];
 
-    if(item && item.video_id && item.status === 'live'){
+    if(item && item.video_id && (item.status === 'live' || item.status === 'fallback')){
       const src=`https://www.youtube.com/embed/${item.video_id}?autoplay=1&mute=1&playsinline=1&rel=0&origin=${encodeURIComponent(location.origin)}`;
       p.innerHTML=`<iframe src="${src}" title="${item.title||key}" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
     }else{
-      p.innerHTML='<div class="placeholder">目前沒有偵測到正在直播的官方 YouTube 訊號。<br>系統會每 30 分鐘重新檢查。</div>';
+      const msg = key === 'cnn'
+        ? 'CNN 目前沒有偵測到官方公開 YouTube 直播。<br>系統會每 30 分鐘重新檢查。'
+        : '目前沒有偵測到可用直播訊號。<br>系統會每 30 分鐘重新檢查。';
+      p.innerHTML=`<div class="placeholder">${msg}</div>`;
     }
   });
 })
