@@ -1,0 +1,6 @@
+{
+  "abc": {"title":"ABC News Australia","video_id":""},
+  "nbc": {"title":"NBC News NOW","video_id":""},
+  "global": {"title":"寰宇新聞","video_id":""},
+  "tbs": {"title":"TBS NEWS DIG","video_id":""}
+}
