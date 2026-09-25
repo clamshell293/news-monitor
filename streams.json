@@ -1,18 +1,26 @@
 {
   "abc": {
     "title": "ABC News Australia",
-    "video_id": "cnesvaiNZjY"
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
   },
-  "nbc": {
-    "title": "NBC News NOW",
-    "video_id": "7hIrex2xiDA"
+  "cnn": {
+    "title": "CNN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
   },
   "global": {
     "title": "寰宇新聞",
-    "video_id": "6IquAgfvYmc"
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
   },
   "tbs": {
     "title": "TBS NEWS DIG",
-    "video_id": "Anr15FA9OCI"
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
   }
 }
