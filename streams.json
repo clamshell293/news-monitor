@@ -1,16 +1,72 @@
 {
-  "abc-au": {"video_id":"","status":"offline","video_title":""},
-  "cnn": {"video_id":"","status":"offline","video_title":""},
-  "nbc": {"video_id":"","status":"offline","video_title":""},
-  "cbs": {"video_id":"","status":"offline","video_title":""},
-  "abc-us": {"video_id":"","status":"offline","video_title":""},
-  "bloomberg": {"video_id":"","status":"offline","video_title":""},
-  "tbs": {"video_id":"","status":"offline","video_title":""},
-  "ann": {"video_id":"","status":"offline","video_title":""},
-  "global": {"video_id":"","status":"offline","video_title":""},
-  "bbc": {"video_id":"","status":"offline","video_title":""},
-  "sky": {"video_id":"","status":"offline","video_title":""},
-  "france24": {"video_id":"","status":"offline","video_title":""},
-  "aljazeera": {"video_id":"","status":"offline","video_title":""},
-  "cna": {"video_id":"","status":"offline","video_title":""}
+  "abc-au": {
+    "video_id": "vOTiJkg1voo",
+    "status": "live",
+    "video_title": "Watch ABC NEWS Australia live | ABC NEWS"
+  },
+  "cnn": {
+    "video_id": "GotlA1KKWoo",
+    "status": "live",
+    "video_title": "CNN Headlines: 24/7 Live News"
+  },
+  "nbc": {
+    "video_id": "wCzFV6XV1yI",
+    "status": "live",
+    "video_title": "LIVE: NBC News NOW"
+  },
+  "cbs": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
+  },
+  "abc-us": {
+    "video_id": "iipR5yUp36o",
+    "status": "live",
+    "video_title": "LIVE: ABC News Live - 24/7 news, context and analysis"
+  },
+  "bloomberg": {
+    "video_id": "QB5BNdBFujE",
+    "status": "live",
+    "video_title": "Bloomberg Business News Live"
+  },
+  "tbs": {
+    "video_id": "kB0zEKv7JGM",
+    "status": "live",
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（9月27日）｜TBS NEWS DIG"
+  },
+  "ann": {
+    "video_id": "mxWxYP7oPWA",
+    "status": "live",
+    "video_title": "【速報】群馬・太田市の女性殺害事件、長男への殺人未遂容疑で手配の男を高崎市内で逮捕【ニュースまとめ】 (2026年9月25日～26日) ANN/テレ朝 LIVE"
+  },
+  "global": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
+  },
+  "bbc": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
+  },
+  "sky": {
+    "video_id": "xDWQ3LkccY8",
+    "status": "live",
+    "video_title": "Watch Sky News"
+  },
+  "france24": {
+    "video_id": "HvZt-nh9sGg",
+    "status": "live",
+    "video_title": "FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream"
+  },
+  "aljazeera": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": ""
+  },
+  "cna": {
+    "video_id": "XWq5kBlakcQ",
+    "status": "live",
+    "video_title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows"
+  }
 }
