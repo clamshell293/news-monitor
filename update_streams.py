@@ -1,230 +1,81 @@
-import json
-import os
-import urllib.parse
-import urllib.request
+import json, os, urllib.parse, urllib.request
 from pathlib import Path
 
-API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
-if not API_KEY:
-    raise SystemExit("Missing YOUTUBE_API_KEY")
-
-CHANNELS = {
-    "abc": {
-        "title": "ABC News Australia",
-        "channel_id": "UCVgO39Bk5sMo66-6o6Spn6Q",
-        "mode": "search_live",
-    },
-    "cnn": {
-        "title": "CNN",
-        "channel_id": "UCupvZG-5ko_eiXAupbDfxWw",
-        "mode": "search_live",
-    },
-    "global": {
-        "title": "寰宇新聞",
-        "channel_id": "UCp2f7tGJGN6R9Muxipem8Nw",
-        "mode": "uploads",
-    },
-    "tbs": {
-        "title": "TBS NEWS DIG",
-        "channel_id": "UC6AG81pAkf6Lbi_1VC5NmPA",
-        "mode": "uploads",
-    },
-}
-
-STREAMS_PATH = Path("streams.json")
-BASE = "https://www.googleapis.com/youtube/v3"
+API_KEY=os.environ.get('YOUTUBE_API_KEY','').strip()
+if not API_KEY: raise SystemExit('Missing YOUTUBE_API_KEY')
+BASE='https://www.googleapis.com/youtube/v3'
+channels=json.loads(Path('channels.json').read_text(encoding='utf-8')).get('channels',[])
+yt=[c for c in channels if c.get('source')=='youtube']
+try: old=json.loads(Path('streams.json').read_text(encoding='utf-8'))
+except Exception: old={}
 
 def api_get(endpoint, **params):
-    params["key"] = API_KEY
-    url = f"{BASE}/{endpoint}?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": "news-monitor/4.1"}
-    )
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode("utf-8"))
+    params['key']=API_KEY
+    url=f"{BASE}/{endpoint}?"+urllib.parse.urlencode(params)
+    req=urllib.request.Request(url,headers={'User-Agent':'news-monitor-v5'})
+    with urllib.request.urlopen(req,timeout=30) as r:
+        return json.loads(r.read().decode('utf-8'))
 
-def inspect_video_ids(video_ids):
-    if not video_ids:
-        return []
+def videos(ids):
+    if not ids:return []
+    return api_get('videos',part='snippet,status,liveStreamingDetails',id=','.join(ids),maxResults=50).get('items',[])
 
-    data = api_get(
-        "videos",
-        part="snippet,status,liveStreamingDetails",
-        id=",".join(video_ids),
-        maxResults=50,
-    )
-    return data.get("items", [])
+def valid(v,cid):
+    s=v.get('snippet',{}); st=v.get('status',{})
+    return s.get('channelId')==cid and s.get('liveBroadcastContent')=='live' and st.get('privacyStatus')=='public' and st.get('embeddable',True) is not False
 
-def is_usable_live(video, expected_channel_id):
-    snippet = video.get("snippet", {})
-    status = video.get("status", {})
-
-    return (
-        snippet.get("channelId") == expected_channel_id
-        and snippet.get("liveBroadcastContent") == "live"
-        and status.get("privacyStatus") == "public"
-        and status.get("embeddable", True) is not False
-    )
-
-def validate_previous(video_id, expected_channel_id):
-    if not video_id:
-        return None
-
-    items = inspect_video_ids([video_id])
-    if items and is_usable_live(items[0], expected_channel_id):
-        return items[0]
-
-    return None
-
-def search_current_live(channel_id):
-    """
-    Directly ask YouTube for currently-live videos from this channel.
-    Used for ABC and CNN because long-running live streams may be buried
-    deep in the uploads playlist.
-    """
-    data = api_get(
-        "search",
-        part="snippet",
-        channelId=channel_id,
-        eventType="live",
-        type="video",
-        maxResults=10,
-        order="date",
-    )
-
-    ids = []
-    for item in data.get("items", []):
-        vid = item.get("id", {}).get("videoId")
-        if vid:
-            ids.append(vid)
-
-    if not ids:
-        return None
-
-    videos = inspect_video_ids(ids)
-    by_id = {v.get("id"): v for v in videos}
-
-    # Preserve search result order
+def search_live(cid):
+    d=api_get('search',part='snippet',channelId=cid,eventType='live',type='video',maxResults=10,order='date')
+    ids=[x.get('id',{}).get('videoId') for x in d.get('items',[])]
+    ids=[x for x in ids if x]
+    by={v.get('id'):v for v in videos(ids)}
     for vid in ids:
-        video = by_id.get(vid)
-        if video and is_usable_live(video, channel_id):
-            return video
-
+        v=by.get(vid)
+        if v and valid(v,cid): return v
     return None
 
-def get_upload_playlist(channel_id):
-    data = api_get(
-        "channels",
-        part="contentDetails",
-        id=channel_id,
-        maxResults=1,
-    )
-
-    items = data.get("items", [])
-    if not items:
-        return ""
-
-    return (
-        items[0]
-        .get("contentDetails", {})
-        .get("relatedPlaylists", {})
-        .get("uploads", "")
-    )
-
-def find_live_in_uploads(playlist_id, expected_channel_id, max_pages=10):
-    token = ""
-
+def uploads_live(cid,max_pages=5):
+    c=api_get('channels',part='contentDetails',id=cid,maxResults=1).get('items',[])
+    if not c:return None
+    pl=c[0].get('contentDetails',{}).get('relatedPlaylists',{}).get('uploads','')
+    if not pl:return None
+    token=''
     for _ in range(max_pages):
-        params = {
-            "part": "contentDetails",
-            "playlistId": playlist_id,
-            "maxResults": 50,
-        }
-        if token:
-            params["pageToken"] = token
-
-        page = api_get("playlistItems", **params)
-
-        ids = []
-        for item in page.get("items", []):
-            vid = item.get("contentDetails", {}).get("videoId")
-            if vid:
-                ids.append(vid)
-
-        videos = inspect_video_ids(ids)
-        by_id = {v.get("id"): v for v in videos}
-
+        p={'part':'contentDetails','playlistId':pl,'maxResults':50}
+        if token:p['pageToken']=token
+        page=api_get('playlistItems',**p)
+        ids=[x.get('contentDetails',{}).get('videoId') for x in page.get('items',[])]
+        ids=[x for x in ids if x]
+        by={v.get('id'):v for v in videos(ids)}
         for vid in ids:
-            video = by_id.get(vid)
-            if video and is_usable_live(video, expected_channel_id):
-                return video
-
-        token = page.get("nextPageToken", "")
-        if not token:
-            break
-
+            v=by.get(vid)
+            if v and valid(v,cid): return v
+        token=page.get('nextPageToken','')
+        if not token:break
     return None
 
-def load_old():
-    if not STREAMS_PATH.exists():
-        return {}
+previous=[]; owners={}
+for c in yt:
+    vid=(old.get(c['id']) or {}).get('video_id','')
+    if vid: previous.append(vid); owners[vid]=c
+valid_old={}
+for i in range(0,len(previous),50):
+    for v in videos(previous[i:i+50]):
+        c=owners.get(v.get('id'))
+        if c and valid(v,c['channel_id']): valid_old[c['id']]=v
 
-    try:
-        return json.loads(STREAMS_PATH.read_text(encoding="utf-8"))
-    except Exception:
-        return {}
-
-old = load_old()
-out = {}
-
-for key, cfg in CHANNELS.items():
-    title = cfg["title"]
-    channel_id = cfg["channel_id"]
-    mode = cfg["mode"]
-
-    previous_id = ""
-    if isinstance(old.get(key), dict):
-        previous_id = old[key].get("video_id", "") or ""
-
-    # First validate an existing stream ID. This keeps long-running streams
-    # without spending another search query if they are still live.
-    live_video = validate_previous(previous_id, channel_id)
-
-    if live_video is None:
-        if mode == "search_live":
-            live_video = search_current_live(channel_id)
-        else:
-            playlist_id = get_upload_playlist(channel_id)
-            if playlist_id:
-                live_video = find_live_in_uploads(
-                    playlist_id,
-                    channel_id,
-                    max_pages=10,
-                )
-
-    if live_video:
-        snippet = live_video.get("snippet", {})
-        out[key] = {
-            "title": title,
-            "video_id": live_video["id"],
-            "status": "live",
-            "video_title": snippet.get("title", ""),
-        }
-        print(
-            f"{key}: LIVE {live_video['id']} | "
-            f"{snippet.get('title', '')}"
-        )
+out={}
+for c in yt:
+    v=valid_old.get(c['id'])
+    if not v:
+        try:
+            v=uploads_live(c['channel_id']) if c.get('discovery')=='uploads' else search_live(c['channel_id'])
+        except Exception as e:
+            print(c['id'],'lookup failed:',e); v=None
+    if v:
+        out[c['id']]={'video_id':v['id'],'status':'live','video_title':v.get('snippet',{}).get('title','')}
+        print(c['id'],'LIVE',v['id'])
     else:
-        out[key] = {
-            "title": title,
-            "video_id": "",
-            "status": "offline",
-            "video_title": "",
-        }
-        print(f"{key}: no verified public embeddable livestream found")
-
-STREAMS_PATH.write_text(
-    json.dumps(out, ensure_ascii=False, indent=2),
-    encoding="utf-8",
-)
+        out[c['id']]={'video_id':'','status':'offline','video_title':''}
+        print(c['id'],'OFFLINE')
+Path('streams.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding='utf-8')

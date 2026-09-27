@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "channels": [
+    {"id":"abc-au","name":"ABC News Australia","country":"澳洲","group":"澳洲","source":"youtube","channel_id":"UCVgO39Bk5sMo66-6o6Spn6Q","discovery":"search_live"},
+    {"id":"cnn","name":"CNN","country":"美國","group":"美國","source":"youtube","channel_id":"UCupvZG-5ko_eiXAupbDfxWw","discovery":"search_live"},
+    {"id":"nbc","name":"NBC News","country":"美國","group":"美國","source":"youtube","channel_id":"UCeY0bbntWzzVIaj2z3QigXg","discovery":"search_live"},
+    {"id":"cbs","name":"CBS News","country":"美國","group":"美國","source":"youtube","channel_id":"UC8p1vwvWtl6T73JiExfWs1g","discovery":"search_live"},
+    {"id":"abc-us","name":"ABC News","country":"美國","group":"美國","source":"youtube","channel_id":"UCBi2mrWuNuyYy4gbM6fU18Q","discovery":"search_live"},
+    {"id":"bloomberg","name":"Bloomberg Television","country":"美國","group":"美國","source":"youtube","channel_id":"UCIALMKvObZNtJ6AmdCLP7Lg","discovery":"search_live"},
+    {"id":"tbs","name":"TBS NEWS DIG","country":"日本","group":"日本","source":"youtube","channel_id":"UC6AG81pAkf6Lbi_1VC5NmPA","discovery":"uploads"},
+    {"id":"ann","name":"ANNnewsCH","country":"日本","group":"日本","source":"youtube","channel_id":"UCGCZAYq5Xxojl_tSXcVJhiQ","discovery":"search_live"},
+    {"id":"global","name":"寰宇新聞","country":"台灣","group":"台灣","source":"youtube","channel_id":"UCp2f7tGJGN6R9Muxipem8Nw","discovery":"uploads"},
+    {"id":"bbc","name":"BBC News","country":"英國","group":"英國／歐洲","source":"youtube","channel_id":"UC16niRr50-MSBwiO3YDb3RA","discovery":"search_live"},
+    {"id":"sky","name":"Sky News","country":"英國","group":"英國／歐洲","source":"youtube","channel_id":"UCoMdktPbSTixAyNGwb-UYkQ","discovery":"search_live"},
+    {"id":"france24","name":"FRANCE 24 English","country":"法國","group":"英國／歐洲","source":"youtube","channel_id":"UCQfwfsi5VrQ8yKZ-UWmAEFg","discovery":"search_live"},
+    {"id":"aljazeera","name":"Al Jazeera English","country":"卡達","group":"國際","source":"youtube","channel_id":"UCNye-wNBqNL5ZzHSJj3l8Bg","discovery":"search_live"},
+    {"id":"cna","name":"CNA","country":"新加坡","group":"國際","source":"youtube","channel_id":"UC83jt4dlz1Gjl58fzQrrKZg","discovery":"search_live"},
+    {"id":"cctv13","name":"CCTV-13 新聞","country":"中國","group":"中國","source":"cctv","official_url":"https://tv.cctv.com/live/cctv13/m/","embed_url":"https://tv.cctv.com/live/cctv13/m/"},
+    {"id":"cctv7","name":"CCTV-7 國防軍事","country":"中國","group":"中國","source":"cctv","official_url":"https://tv.cctv.com/live/cctv7/m/","embed_url":"https://tv.cctv.com/live/cctv7/m/"},
+    {"id":"cctv4","name":"CCTV-4 中文國際","country":"中國","group":"中國","source":"cctv","official_url":"https://tv.cctv.com/live/cctv4/m/","embed_url":"https://tv.cctv.com/live/cctv4/m/"},
+    {"id":"cctv1","name":"CCTV-1 綜合","country":"中國","group":"中國","source":"cctv","official_url":"https://tv.cctv.com/live/cctv1/m/","embed_url":"https://tv.cctv.com/live/cctv1/m/"}
+  ]
+}
