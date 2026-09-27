@@ -1,72 +1,164 @@
 {
   "abc-au": {
-    "video_id": "vOTiJkg1voo",
-    "status": "live",
-    "video_title": "Watch ABC NEWS Australia live | ABC NEWS"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "cnn": {
-    "video_id": "GotlA1KKWoo",
-    "status": "live",
-    "video_title": "CNN Headlines: 24/7 Live News"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "nbc": {
-    "video_id": "wCzFV6XV1yI",
-    "status": "live",
-    "video_title": "LIVE: NBC News NOW"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "cbs": {
     "video_id": "",
     "status": "offline",
-    "video_title": ""
+    "video_title": "",
+    "last_search": ""
   },
   "abc-us": {
-    "video_id": "iipR5yUp36o",
-    "status": "live",
-    "video_title": "LIVE: ABC News Live - 24/7 news, context and analysis"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "bloomberg": {
-    "video_id": "QB5BNdBFujE",
-    "status": "live",
-    "video_title": "Bloomberg Business News Live"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "tbs": {
-    "video_id": "kB0zEKv7JGM",
-    "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（9月27日）｜TBS NEWS DIG"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "ann": {
-    "video_id": "mxWxYP7oPWA",
-    "status": "live",
-    "video_title": "【速報】群馬・太田市の女性殺害事件、長男への殺人未遂容疑で手配の男を高崎市内で逮捕【ニュースまとめ】 (2026年9月25日～26日) ANN/テレ朝 LIVE"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "global": {
     "video_id": "",
     "status": "offline",
-    "video_title": ""
+    "video_title": "",
+    "last_search": ""
+  },
+  "tvbs": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "setn": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "ebc": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "cti": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "cgtn": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "phoenix": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "ytn": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "mbc-kr": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "sbs-kr": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "abs-cbn": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "gma": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "news5": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
+  },
+  "ptv-ph": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "bbc": {
     "video_id": "",
     "status": "offline",
-    "video_title": ""
+    "video_title": "",
+    "last_search": ""
   },
   "sky": {
-    "video_id": "xDWQ3LkccY8",
-    "status": "live",
-    "video_title": "Watch Sky News"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "france24": {
-    "video_id": "HvZt-nh9sGg",
-    "status": "live",
-    "video_title": "FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   },
   "aljazeera": {
     "video_id": "",
     "status": "offline",
-    "video_title": ""
+    "video_title": "",
+    "last_search": ""
   },
   "cna": {
-    "video_id": "XWq5kBlakcQ",
-    "status": "live",
-    "video_title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": ""
   }
 }
