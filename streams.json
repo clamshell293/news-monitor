@@ -21,7 +21,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:08.935192Z"
+    "last_search": "2026-09-27T20:01:18.993001Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "wOSM-wdlQoo",
+    "video_id": "mdMzch9xcM0",
     "status": "live",
-    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（9月27日）｜TBS NEWS DIG",
-    "last_search": "2026-09-27T14:01:09.388023Z"
+    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（9月28日）｜TBS NEWS DIG",
+    "last_search": "2026-09-27T20:01:19.545695Z"
   },
   "ann": {
     "video_id": "p58DbphiyXk",
@@ -51,13 +51,13 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:14.362016Z"
+    "last_search": "2026-09-27T20:01:21.760727Z"
   },
   "tvbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:14.569323Z"
+    "last_search": "2026-09-27T20:01:21.921446Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -111,37 +111,37 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:15.110196Z"
+    "last_search": "2026-09-27T20:01:22.127333Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:15.322053Z"
+    "last_search": "2026-09-27T20:01:22.357651Z"
   },
   "news5": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:15.513457Z"
+    "last_search": "2026-09-27T20:01:22.505620Z"
   },
   "ptv-ph": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:15.664325Z"
+    "last_search": "2026-09-27T20:01:22.688405Z"
   },
   "bbc": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:15.803472Z"
+    "last_search": "2026-09-27T20:01:22.863209Z"
   },
   "sky": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-09-27T14:01:16.083920Z"
+    "video_id": "xDWQ3LkccY8",
+    "status": "live",
+    "video_title": "Watch Sky News",
+    "last_search": "2026-09-27T20:01:23.251276Z"
   },
   "france24": {
     "video_id": "HvZt-nh9sGg",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-27T14:01:16.294119Z"
+    "last_search": "2026-09-27T20:01:23.429869Z"
   },
   "cna": {
     "video_id": "XWq5kBlakcQ",
