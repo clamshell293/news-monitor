@@ -12,10 +12,10 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "wCzFV6XV1yI",
+    "video_id": "jiTiyXldA2o",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-09-27T07:06:30.908028Z"
+    "video_title": "LIVE: NBC News NOW - Sept. 28",
+    "last_search": "2026-09-28T12:01:36.709850Z"
   },
   "cbs": {
     "video_id": "",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "91eEKZUYztw",
-    "status": "live",
-    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（9月28日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-28T09:03:11.451776Z"
   },
   "ann": {
@@ -86,13 +86,13 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】中美雙方11月底前舉行AI對話｜特朗普預計美伊將在幾天內重啟談判｜大熊貓“平平”“福雙”抵達亞特蘭大動物園｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】中方公佈中美貿易理事會及對等降稅情況｜特朗普：並不擔憂人工智能出現失控問題｜伊媒稱伊朗無意在紐約與美方會談｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "NrpG6cMnAaQ",
-    "status": "live",
-    "video_title": "이스라엘, 그라운드서 '국제 왕따' 전락…유엔 총회 집단 퇴장에 이은 전방위 고립 [에디터픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-28T08:03:56.319202Z"
   },
   "mbc-kr": {
