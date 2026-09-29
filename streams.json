@@ -12,10 +12,10 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "DRrxGf9SCGg",
+    "video_id": "uk5RODxh6ww",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-09-28T22:01:40.212256Z"
+    "video_title": "LIVE: NBC News NOW - Sept. 29",
+    "last_search": "2026-09-29T12:02:48.179254Z"
   },
   "cbs": {
     "video_id": "99c3AXcu_9g",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "_UmlhRmwrsg",
-    "status": "live",
-    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（9月29日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-29T10:02:53.190245Z"
   },
   "ann": {
@@ -102,21 +102,21 @@
     "last_search": "2026-09-29T06:02:20.398568Z"
   },
   "sbs-kr": {
+    "video_id": "0qCPAdbg4io",
+    "status": "live",
+    "video_title": "[🔴속보] \"조금만 더 있을게요\"..부산 상어 '부캉이' 사흘 뒤 2차 구조작전 돌입..'대형 그물망 투입' 플랜 B 가동 / SBS 뉴스속보",
+    "last_search": "2026-09-29T12:02:48.533892Z"
+  },
+  "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-29T06:02:20.591079Z"
-  },
-  "abs-cbn": {
-    "video_id": "KfqE5qNEWdw",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Evening Rush Hour) | September 29, 2026",
     "last_search": "2026-09-29T10:03:02.527491Z"
   },
   "gma": {
-    "video_id": "4LtcjHWbKu4",
-    "status": "live",
-    "video_title": "24 Oras Livestream: September 29, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-29T10:03:02.829554Z"
   },
   "news5": {
