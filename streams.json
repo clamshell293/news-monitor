@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "ScfK6qmxoqE",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Sept. 29",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-09-29T22:01:53.536923Z"
   },
   "cbs": {
@@ -86,13 +86,13 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】伊朗革命衛隊：特朗普若想結束戰爭須認戰敗｜王毅：日方須糾正領導人涉台錯誤言行｜福建海警喊話金門船：願早日團圓｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平出席烈士紀念日向人民英雄敬獻花籃儀式｜伊朗：闡明停戰條件 惟特朗普無力作出決策｜金正恩批韓地雷事件挑釁｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "WSjtjjg74L0",
-    "status": "live",
-    "video_title": "DMZ서 또 지뢰…\"국경선 요새화 관련 추정\" [YTN 실시간뉴스]",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-30T00:02:09.294062Z"
   },
   "mbc-kr": {
