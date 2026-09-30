@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "YJBEhV522TU",
-    "status": "live",
-    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（9月30日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-30T12:03:16.284411Z"
   },
   "ann": {
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-09-30T07:04:58.145424Z"
+    "video_id": "Ry67wzFZZqU",
+    "status": "live",
+    "video_title": "UAE 왕세자, 초대형 승부수 '제로 호르무즈'…\"천문학적 자금 전격 투입\" [이슈픽] / YTN",
+    "last_search": "2026-09-30T13:06:50.424542Z"
   },
   "mbc-kr": {
     "video_id": "9X1i5ZC3rDw",
@@ -108,9 +108,9 @@
     "last_search": "2026-09-30T09:02:36.875297Z"
   },
   "abs-cbn": {
-    "video_id": "D5lrzFz_DFg",
-    "status": "live",
-    "video_title": "Spot Report | DZMM Teleradyo | (30 September 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-30T12:03:19.276472Z"
   },
   "gma": {
