@@ -36,16 +36,16 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "_QVMJ35y-K0",
-    "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（9月30日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-30T05:03:14.637583Z"
   },
   "ann": {
-    "video_id": "iGYE6-Kp7Q4",
+    "video_id": "On_Yb-DQJTs",
     "status": "live",
-    "video_title": "【台風25号･26号】台風26号北上中…列島に大雨“突風”被害も/東京都心で34日連続の雨 統計史上最も長い記録【ニュースまとめ】 (2026年9月28日～29日) ANN/テレ朝 LIVE",
-    "last_search": "2026-09-29T08:03:58.594636Z"
+    "video_title": "【台風25号･26号】都心は“最長雨” 復旧半ばの千葉 いまだ停電・断水の地域も　台風は関東再接近へ【ニュースまとめ】 (2026年9月28日～30日) ANN/テレ朝 LIVE",
+    "last_search": "2026-09-30T09:02:36.432635Z"
   },
   "global": {
     "video_id": "",
@@ -102,15 +102,15 @@
     "last_search": "2026-09-30T06:02:08.860755Z"
   },
   "sbs-kr": {
+    "video_id": "fxLuStwSSYU",
+    "status": "live",
+    "video_title": "[🔴이슈] 상어 '부캉이' 굳이 바다로 보내야해? 갑론을박..\"좁은 수로에 장기간 방치되면..\" / SBS 이슈라이브",
+    "last_search": "2026-09-30T09:02:36.875297Z"
+  },
+  "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-09-30T03:02:14.337469Z"
-  },
-  "abs-cbn": {
-    "video_id": "sCCCvnVBxYo",
-    "status": "live",
-    "video_title": "LIVE: Senate holds hearing on FY 2027 budget of Department of Labor and Employment  | Sept. 25, 2026",
     "last_search": "2026-09-30T05:03:20.647011Z"
   },
   "gma": {
@@ -120,9 +120,9 @@
     "last_search": "2026-09-30T05:03:20.975640Z"
   },
   "news5": {
-    "video_id": "CsE4eGOO1FU",
-    "status": "live",
-    "video_title": "LIVE | House prosecution panel holds press briefing (September 30, 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-09-30T05:03:21.243710Z"
   },
   "ptv-ph": {
