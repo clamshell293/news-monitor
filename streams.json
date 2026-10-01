@@ -108,16 +108,16 @@
     "last_search": "2026-10-01T13:05:51.685586Z"
   },
   "abs-cbn": {
-    "video_id": "6vyprlPptUU",
-    "status": "live",
-    "video_title": "Pasada Balita | DZMM Teleradyo | (2 October 2026)",
-    "last_search": "2026-10-01T21:01:59.392282Z"
-  },
-  "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-01T16:03:00.130941Z"
+    "last_search": "2026-10-01T21:01:59.392282Z"
+  },
+  "gma": {
+    "video_id": "BsxqPfoV5S0",
+    "status": "live",
+    "video_title": "Dobol B TV Livestream: October 2, 2026",
+    "last_search": "2026-10-01T23:01:17.355420Z"
   },
   "news5": {
     "video_id": "",
