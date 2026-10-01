@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "ZB45H5nCOyo",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Sept. 30",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-09-30T22:02:21.889123Z"
   },
   "cbs": {
@@ -102,15 +102,15 @@
     "last_search": "2026-09-30T23:01:30.708998Z"
   },
   "sbs-kr": {
-    "video_id": "SI3YxgskFX0",
-    "status": "live",
-    "video_title": "[🔴속보] \"북, 요새화 중단하라\"..유엔사도 \"정전협정 위반\" / 표식 흐릿해진 군사분계선 무시..무기 배치하고 지뢰 매설까지? / SBS 논스톱 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-01T00:02:02.154566Z"
   },
   "abs-cbn": {
-    "video_id": "oNdmnJKaLME",
-    "status": "live",
-    "video_title": "Balitapatan | DZMM Teleradyo | (1 October 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-01T01:05:34.976234Z"
   },
   "gma": {
@@ -120,9 +120,9 @@
     "last_search": "2026-10-01T01:05:35.225778Z"
   },
   "news5": {
-    "video_id": "B3PebqBZ2NA",
-    "status": "live",
-    "video_title": "LIVE | Department of Justice holds press conference (Oct. 1, 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-01T01:05:35.509624Z"
   },
   "ptv-ph": {
