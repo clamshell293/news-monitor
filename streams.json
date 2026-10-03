@@ -18,10 +18,10 @@
     "last_search": "2026-10-02T22:01:28.772764Z"
   },
   "cbs": {
-    "video_id": "Px5qqWf1Kxk",
-    "status": "live",
-    "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-02T11:02:15.834563Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-10-03T04:07:44.072044Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-02T22:01:29.232550Z"
+    "video_id": "txNNoqSslW0",
+    "status": "live",
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月3日）｜TBS NEWS DIG",
+    "last_search": "2026-10-03T04:07:44.486381Z"
   },
   "ann": {
     "video_id": "i128HWODG9E",
@@ -51,13 +51,13 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-02T22:01:31.289565Z"
+    "last_search": "2026-10-03T04:07:49.347085Z"
   },
   "tvbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-02T22:01:31.511876Z"
+    "last_search": "2026-10-03T04:07:49.585500Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -111,7 +111,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-02T22:01:31.632212Z"
+    "last_search": "2026-10-03T04:07:49.733745Z"
   },
   "gma": {
     "video_id": "",
@@ -123,19 +123,19 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-02T22:01:31.754163Z"
+    "last_search": "2026-10-03T04:07:49.958656Z"
   },
   "ptv-ph": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-02T22:01:31.892540Z"
+    "last_search": "2026-10-03T04:07:50.158151Z"
   },
   "bbc": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-02T22:01:32.116392Z"
+    "last_search": "2026-10-03T04:07:50.309904Z"
   },
   "sky": {
     "video_id": "xDWQ3LkccY8",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-02T22:01:32.352586Z"
+    "last_search": "2026-10-03T04:07:50.488720Z"
   },
   "cna": {
     "video_id": "XWq5kBlakcQ",
