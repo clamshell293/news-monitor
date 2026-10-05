@@ -21,7 +21,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-05T00:02:07.750322Z"
+    "last_search": "2026-10-05T06:05:58.119036Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-05T00:02:08.176941Z"
+    "video_id": "OF97Cqc9wiU",
+    "status": "live",
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月5日）｜TBS NEWS DIG",
+    "last_search": "2026-10-05T06:05:58.582996Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -51,13 +51,13 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-05T00:02:14.356162Z"
+    "last_search": "2026-10-05T06:06:04.761491Z"
   },
   "tvbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-05T00:02:14.571992Z"
+    "last_search": "2026-10-05T06:06:04.930968Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -102,16 +102,16 @@
     "last_search": "2026-10-04T17:21:40.994893Z"
   },
   "sbs-kr": {
-    "video_id": "IUT4A3GHxsc",
-    "status": "live",
-    "video_title": "🔴LIVE \"북한에 약점 잡혔나\".. 장동혁 국민의힘 당 대표 기자회견 / SBS 실시간 라이브",
-    "last_search": "2026-10-05T02:02:39.267868Z"
-  },
-  "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-05T00:02:14.847626Z"
+    "last_search": "2026-10-05T02:02:39.267868Z"
+  },
+  "abs-cbn": {
+    "video_id": "qg8ub5HYxmc",
+    "status": "live",
+    "video_title": "LIVE: Impeachment Trial of VP Sara Duterte | ABS-CBN News Special Coverage - DAY 33 (Oct. 5, 2026)",
+    "last_search": "2026-10-05T06:06:05.197463Z"
   },
   "gma": {
     "video_id": "Cv30IXRsFvA",
@@ -120,22 +120,22 @@
     "last_search": "2026-10-05T00:02:15.126914Z"
   },
   "news5": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-05T00:02:15.467693Z"
+    "video_id": "7S6mQllHbyk",
+    "status": "live",
+    "video_title": "LIVE | Impeachment hearing of VP Sara Duterte - Day 33 #VPSaraonTrial (October 5, 2026)",
+    "last_search": "2026-10-05T06:06:05.425444Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-05T00:02:15.813593Z"
+    "video_id": "h-Vczb6AwoI",
+    "status": "live",
+    "video_title": "The Impeachment Trial: Katotohanan. Pananagutan. Katarungan — A PTV Special Coverage | 5 October",
+    "last_search": "2026-10-05T06:06:05.704860Z"
   },
   "bbc": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-05T00:02:16.031751Z"
+    "last_search": "2026-10-05T06:06:05.876132Z"
   },
   "sky": {
     "video_id": "xDWQ3LkccY8",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-05T00:02:16.253202Z"
+    "last_search": "2026-10-05T06:06:06.064552Z"
   },
   "cna": {
     "video_id": "XWq5kBlakcQ",
