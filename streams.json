@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "uMaWTttJTVc",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 5",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-05T22:03:05.356744Z"
   },
   "cbs": {
@@ -102,22 +102,22 @@
     "last_search": "2026-10-05T18:04:26.378751Z"
   },
   "sbs-kr": {
-    "video_id": "p45SnNBrmMk",
+    "video_id": "ayXwJHUCusQ",
     "status": "live",
-    "video_title": "[🔴속보] \"우크라, 킬러 로봇 이용해 동부 전선 영토 대거 탈환\" 176㎢ 탈환했다..러시아 군 후방 노린 우크라 작전 / SBS 뉴스속보",
-    "last_search": "2026-10-05T08:04:29.923820Z"
+    "video_title": "🔴LIVE 진실화해위, 이태원특조위 등..국회 행정안전위 국정감사 / SBS 실시간 라이브",
+    "last_search": "2026-10-06T01:05:15.332908Z"
   },
   "abs-cbn": {
-    "video_id": "O5y8cKeRlEs",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Morning Rush Hour) | October 6, 2026",
-    "last_search": "2026-10-05T22:03:07.777056Z"
-  },
-  "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-05T18:04:26.589993Z"
+    "last_search": "2026-10-05T22:03:07.777056Z"
+  },
+  "gma": {
+    "video_id": "mEE3LfGPJJ8",
+    "status": "live",
+    "video_title": "LIVE - Impeachment Trial of VP Sara Duterte - DAY 34 (Oct. 6, 2026) | GMA News Special Coverage",
+    "last_search": "2026-10-06T01:05:15.583537Z"
   },
   "news5": {
     "video_id": "9L1OUCZ6SXI",
