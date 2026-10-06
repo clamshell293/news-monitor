@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "w6-PQqSvq-A",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月6日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-05T22:03:05.775233Z"
   },
   "ann": {
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "-drbUk3_Who",
+    "video_id": "feVnAEG92Cw",
     "status": "live",
-    "video_title": "최후의 카드마저 약발 떨어지나...원유 수송 회복에 이란 '대위기' [이슈픽] / YTN",
-    "last_search": "2026-10-05T14:05:49.516342Z"
+    "video_title": "\"새로운 위협 포착\"...미군 폭격기 12대 전부 '긴급 철수' [에디터픽] / YTN",
+    "last_search": "2026-10-06T02:02:41.268209Z"
   },
   "mbc-kr": {
     "video_id": "QHdf8hBxdrA",
@@ -102,9 +102,9 @@
     "last_search": "2026-10-05T18:04:26.378751Z"
   },
   "sbs-kr": {
-    "video_id": "ayXwJHUCusQ",
-    "status": "live",
-    "video_title": "🔴LIVE 진실화해위, 이태원특조위 등..국회 행정안전위 국정감사 / SBS 실시간 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-06T01:05:15.332908Z"
   },
   "abs-cbn": {
