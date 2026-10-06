@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "uMaWTttJTVc",
+    "video_id": "cpFDLxCoK-g",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-10-05T22:03:05.356744Z"
+    "video_title": "LIVE: NBC News NOW - Oct. 6",
+    "last_search": "2026-10-06T12:17:56.910518Z"
   },
   "cbs": {
-    "video_id": "wFv1SJ43g5s",
+    "video_id": "6uBMUj0jBsQ",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-05T23:01:59.813177Z"
+    "last_search": "2026-10-06T12:17:57.177150Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "yrlIyxIprj8",
+    "video_id": "_nyxjVQ7iBk",
     "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月6日）｜TBS NEWS DIG",
-    "last_search": "2026-10-06T04:03:31.623080Z"
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月6日）｜TBS NEWS DIG",
+    "last_search": "2026-10-06T12:17:57.603221Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -51,13 +51,13 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T04:03:40.023530Z"
+    "last_search": "2026-10-06T12:17:59.555683Z"
   },
   "tvbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T04:03:40.200130Z"
+    "last_search": "2026-10-06T12:17:59.673548Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,56 +86,56 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】特朗普：美軍轟炸機因具體威脅撤離英基地｜也門胡塞武裝：命中沙特機場及石油設施｜澤連斯基盼美協調烏俄美三方會晤｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】特朗普談戰爭“小代價”：讓伊朗摧毀洛杉磯｜俄持續襲烏後勤中心和港口設施｜解放軍反無人機演練 激光微波彈炮結合｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-06T02:02:41.268209Z"
+    "video_id": "m4HVlmxQ0Ew",
+    "status": "live",
+    "video_title": "'북한군 위협' 꺼내더니, 이번엔 일본?…동아시아 긴장 키우는 젤렌스키 [이슈픽] / YTN",
+    "last_search": "2026-10-06T12:17:59.914558Z"
   },
   "mbc-kr": {
-    "video_id": "QHdf8hBxdrA",
+    "video_id": "zUJv4j2mceM",
     "status": "live",
-    "video_title": "중간선거 발등에 불?..트럼프 '무리수' 연발韓투자·내란법·항모 증파까지..중동은 수도 '타격전' - [핫이슈PLAY] MBC뉴스 2026년 10월 05일",
-    "last_search": "2026-10-05T18:04:26.378751Z"
+    "video_title": "\"좋은 음식 먹이려고\" \"법카 쪼개기 현행범\".. 내란 땐 '입꾹', 이제서야 \"위헌 지적\"? - [핫이슈PLAY] MBC뉴스 2026년 10월 06일",
+    "last_search": "2026-10-06T12:18:00.266283Z"
   },
   "sbs-kr": {
+    "video_id": "GftI-lTKag4",
+    "status": "live",
+    "video_title": "[🔴속보] 법사위 국정감사 출석한 조희대 증언 거부하다 갑자기 원고 꺼내더니 \"위헌!\" 작심 발언..'대통령 직격'하고 국감장 떠났다 / SBS 뉴스속보",
+    "last_search": "2026-10-06T12:18:00.545154Z"
+  },
+  "abs-cbn": {
+    "video_id": "9Z0e7ZxLGJE",
+    "status": "live",
+    "video_title": "Spot Report | DZMM Teleradyo | (6 October 2026)",
+    "last_search": "2026-10-06T12:18:00.817607Z"
+  },
+  "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T01:05:15.332908Z"
-  },
-  "abs-cbn": {
-    "video_id": "HiP8hwqajaQ",
-    "status": "live",
-    "video_title": "LIVE: House holds joint hearing on DA resolution increasing 2026 corn import volume | Oct. 6, 2026",
-    "last_search": "2026-10-06T04:03:40.480614Z"
-  },
-  "gma": {
-    "video_id": "mEE3LfGPJJ8",
-    "status": "live",
-    "video_title": "LIVE - Impeachment Trial of VP Sara Duterte - DAY 34 (Oct. 6, 2026) | GMA News Special Coverage",
-    "last_search": "2026-10-06T01:05:15.583537Z"
+    "last_search": "2026-10-06T12:18:00.962475Z"
   },
   "news5": {
-    "video_id": "7TwfA-1ah4Y",
-    "status": "live",
-    "video_title": "LIVE | Impeachment hearing of VP Sara Duterte - Day 34 #VPSaraonTrial (October 6, 2026)",
-    "last_search": "2026-10-06T04:03:40.729442Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-10-06T12:18:01.110535Z"
   },
   "ptv-ph": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T04:03:40.965398Z"
+    "last_search": "2026-10-06T12:18:01.238375Z"
   },
   "bbc": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-06T04:03:41.139761Z"
+    "video_id": "LQhvs6arDhw",
+    "status": "live",
+    "video_title": "Asos: What we know so far | BBC News",
+    "last_search": "2026-10-06T12:18:01.606044Z"
   },
   "sky": {
     "video_id": "xDWQ3LkccY8",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T04:03:41.358599Z"
+    "last_search": "2026-10-06T12:18:01.760330Z"
   },
   "cna": {
     "video_id": "XWq5kBlakcQ",
