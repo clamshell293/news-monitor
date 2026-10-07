@@ -18,10 +18,10 @@
     "last_search": "2026-10-06T22:49:35.370065Z"
   },
   "cbs": {
-    "video_id": "6uBMUj0jBsQ",
+    "video_id": "GmE5Ie02NdI",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-06T12:17:57.177150Z"
+    "last_search": "2026-10-07T01:52:11.983454Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "j-X-kbkSKxQ",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月7日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-06T22:49:35.955467Z"
   },
   "ann": {
@@ -51,13 +51,13 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T18:40:17.452543Z"
+    "last_search": "2026-10-07T01:52:16.356798Z"
   },
   "tvbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T18:40:17.705247Z"
+    "last_search": "2026-10-07T01:52:16.614279Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "m4HVlmxQ0Ew",
+    "video_id": "SgC1ZvRTViY",
     "status": "live",
-    "video_title": "'북한군 위협' 꺼내더니, 이번엔 일본?…동아시아 긴장 키우는 젤렌스키 [이슈픽] / YTN",
-    "last_search": "2026-10-06T12:17:59.914558Z"
+    "video_title": "우크라, 역대급 드론 공격…칼 뽑은 푸틴 '초강수' [에디터픽] / YTN",
+    "last_search": "2026-10-07T01:52:16.877791Z"
   },
   "mbc-kr": {
     "video_id": "zUJv4j2mceM",
@@ -102,40 +102,40 @@
     "last_search": "2026-10-06T12:18:00.266283Z"
   },
   "sbs-kr": {
-    "video_id": "GftI-lTKag4",
+    "video_id": "aYBuTWL0oIU",
     "status": "live",
-    "video_title": "[🔴속보] 법사위 국정감사 출석한 조희대 증언 거부하다 갑자기 원고 꺼내더니 \"위헌!\" 작심 발언..'대통령 직격'하고 국감장 떠났다 / SBS 뉴스속보",
-    "last_search": "2026-10-06T12:18:00.545154Z"
+    "video_title": "[🔴속보] 박정희 고향 구미 한 영화관에서 결국 암살자(들) '상영 중단' / SBS 실시간 라이브",
+    "last_search": "2026-10-07T01:52:17.109515Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-06T18:40:17.915076Z"
+    "video_id": "H4vdEnZ1KW8",
+    "status": "live",
+    "video_title": "House holds hearing on bills declaring historic cathedrals & shrines as tourism sites | October 7",
+    "last_search": "2026-10-07T01:52:17.316631Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-06T18:40:18.132331Z"
+    "video_id": "sVbs84Gf2Nc",
+    "status": "live",
+    "video_title": "LIVE - Impeachment Trial of VP Sara Duterte - DAY 35 (Oct. 7, 2026) | GMA News Special Coverage",
+    "last_search": "2026-10-07T01:52:17.516336Z"
   },
   "news5": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T18:40:18.363318Z"
+    "last_search": "2026-10-07T01:52:17.658604Z"
   },
   "ptv-ph": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T18:40:18.649007Z"
+    "last_search": "2026-10-07T01:52:17.807750Z"
   },
   "bbc": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T18:40:18.860380Z"
+    "last_search": "2026-10-07T01:52:18.033110Z"
   },
   "sky": {
     "video_id": "xDWQ3LkccY8",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-06T18:40:19.084884Z"
+    "last_search": "2026-10-07T01:52:18.150647Z"
   },
   "cna": {
     "video_id": "XWq5kBlakcQ",
