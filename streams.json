@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "6_f4r8tqdao",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 6",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-06T22:49:35.370065Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-06T22:49:35.955467Z"
+    "video_id": "thbb6DgEFwU",
+    "status": "live",
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月7日）｜TBS NEWS DIG",
+    "last_search": "2026-10-07T07:47:45.812491Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -86,31 +86,31 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】特朗普談戰爭“小代價”：讓伊朗摧毀洛杉磯｜俄持續襲烏後勤中心和港口設施｜解放軍反無人機演練 激光微波彈炮結合｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】特朗普再警告伊朗：將揭曉下一步行動｜烏能源設施遭襲 基輔進入限電模式｜國慶7天假期臨收官 北京旅遊熱度延續｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "SgC1ZvRTViY",
-    "status": "live",
-    "video_title": "우크라, 역대급 드론 공격…칼 뽑은 푸틴 '초강수' [에디터픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-07T01:52:16.877791Z"
   },
   "mbc-kr": {
-    "video_id": "zUJv4j2mceM",
+    "video_id": "FVD91U9xgxM",
     "status": "live",
-    "video_title": "\"좋은 음식 먹이려고\" \"법카 쪼개기 현행범\".. 내란 땐 '입꾹', 이제서야 \"위헌 지적\"? - [핫이슈PLAY] MBC뉴스 2026년 10월 06일",
-    "last_search": "2026-10-06T12:18:00.266283Z"
+    "video_title": "이재명 대통령, 재일본대한민국민단 창단 80주년 기념 간담회 참석 - [현장PLAY] MBC뉴스 2026년 10월 07일",
+    "last_search": "2026-10-07T07:47:46.046761Z"
   },
   "sbs-kr": {
-    "video_id": "aYBuTWL0oIU",
-    "status": "live",
-    "video_title": "[🔴속보] 박정희 고향 구미 한 영화관에서 결국 암살자(들) '상영 중단' / SBS 실시간 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-07T01:52:17.109515Z"
   },
   "abs-cbn": {
-    "video_id": "H4vdEnZ1KW8",
-    "status": "live",
-    "video_title": "House holds hearing on bills declaring historic cathedrals & shrines as tourism sites | October 7",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-07T01:52:17.316631Z"
   },
   "gma": {
