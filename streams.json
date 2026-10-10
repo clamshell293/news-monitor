@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "a0I_VkZHHIU",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 9",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-09T23:37:42.809040Z"
   },
   "cbs": {
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "cGhoMqgciW4",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月10日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-09T23:37:43.362585Z"
   },
   "ann": {
@@ -68,7 +68,7 @@
   "ebc": {
     "video_id": "V1p33hqPrUk",
     "status": "live",
-    "video_title": "🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
+    "video_title": "🔴【115年雙十國慶中華民國生日快樂】東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
     "last_search": "2026-09-27T07:06:37.653532Z"
   },
   "cti": {
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "4aafE4_wqqE",
+    "video_id": "RLwdD6qtAjM",
     "status": "live",
-    "video_title": "일상 덮친 공습 \"전쟁 범죄\"…영국, '강경 대응' 예고 [이슈픽] / YTN",
-    "last_search": "2026-10-09T13:55:11.655109Z"
+    "video_title": "노벨상 발표 직후 '심상찮은 기류'…트럼프 \"ICC 산산조각 낼 것\" [에디터픽] / YTN",
+    "last_search": "2026-10-10T02:57:09.893903Z"
   },
   "mbc-kr": {
     "video_id": "-jBz1ZbrA5k",
@@ -114,9 +114,9 @@
     "last_search": "2026-10-09T23:37:45.028900Z"
   },
   "gma": {
-    "video_id": "gPUn42pG51s",
-    "status": "live",
-    "video_title": "Dobol B TV Livestream: October 10, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-09T23:37:45.369521Z"
   },
   "news5": {
