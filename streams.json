@@ -12,9 +12,9 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "GKOAmJ9uuSE",
-    "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 14",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-14T19:46:49.611213Z"
   },
   "cbs": {
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "P8-QFIA8L80",
-    "status": "live",
-    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月14日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-14T19:46:49.980294Z"
   },
   "ann": {
@@ -96,10 +96,10 @@
     "last_search": "2026-10-14T15:34:51.018331Z"
   },
   "mbc-kr": {
-    "video_id": "Wth-hPrOPLA",
+    "video_id": "tEJS095DEAc",
     "status": "live",
-    "video_title": "[속보] '1억 공천헌금 의혹' 1심 강선우 징역 2년6개월..법정구속 - [MBC뉴스속보] MBC뉴스 2026년 10월 14일",
-    "last_search": "2026-10-14T05:33:28.750647Z"
+    "video_title": "'친윤 검사' 여권 내 공방‥오늘 청문보고서 채택 - [LIVE] MBC 뉴스투데이 2026년 10월 15일",
+    "last_search": "2026-10-14T22:45:03.739396Z"
   },
   "sbs-kr": {
     "video_id": "KkfmaEStdM4",
