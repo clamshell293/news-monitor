@@ -12,10 +12,10 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-14T10:43:08.875580Z"
+    "video_id": "GKOAmJ9uuSE",
+    "status": "live",
+    "video_title": "LIVE: NBC News NOW - Oct. 14",
+    "last_search": "2026-10-14T19:46:49.611213Z"
   },
   "cbs": {
     "video_id": "lLtdBrhYJuI",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-14T10:43:09.208646Z"
+    "video_id": "P8-QFIA8L80",
+    "status": "live",
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月14日）｜TBS NEWS DIG",
+    "last_search": "2026-10-14T19:46:49.980294Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-14T10:43:09.332163Z"
+    "last_search": "2026-10-14T19:46:50.128385Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -102,22 +102,22 @@
     "last_search": "2026-10-14T05:33:28.750647Z"
   },
   "sbs-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-14T10:43:09.507146Z"
+    "video_id": "KkfmaEStdM4",
+    "status": "live",
+    "video_title": "[🔴속보] \"사우디 공항, 석유시설 며칠간 계속 공격\" 후티 폭주..사우디 연합군 반격 예멘 수도 사나 곳곳에서 불기둥 / SBS 실시간 라이브",
+    "last_search": "2026-10-14T19:46:50.453964Z"
   },
   "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-14T10:43:09.761541Z"
+    "last_search": "2026-10-14T19:46:50.591738Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-14T10:43:09.911349Z"
+    "last_search": "2026-10-14T19:46:50.730317Z"
   },
   "news5": {
     "video_id": "",
@@ -129,13 +129,13 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-14T10:43:10.116698Z"
+    "last_search": "2026-10-14T19:46:50.927747Z"
   },
   "bbc": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-14T10:43:10.356569Z"
+    "last_search": "2026-10-14T19:46:51.119418Z"
   },
   "sky": {
     "video_id": "xDWQ3LkccY8",
@@ -153,12 +153,12 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-14T10:43:10.455617Z"
+    "last_search": "2026-10-14T19:46:51.293822Z"
   },
   "cna": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-14T10:43:10.552184Z"
+    "video_id": "-PWMxjBgr0k",
+    "status": "live",
+    "video_title": "CNA 24/7 LIVE: Breaking news on Asia and award-winning documentaries and shows",
+    "last_search": "2026-10-14T19:46:51.537848Z"
   }
 }
