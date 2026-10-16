@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "r4O2MzOlpAM",
-    "status": "live",
-    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月16日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-16T11:57:46.880544Z"
   },
   "ann": {
@@ -90,33 +90,33 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-16T06:29:46.857408Z"
+    "video_id": "ndCFPnoMMnA",
+    "status": "live",
+    "video_title": "사상자 300명 넘었는데 또 공격...끝없이 난타당하는 사우디 '초비상' [이슈픽] / YTN",
+    "last_search": "2026-10-16T15:56:33.010966Z"
   },
   "mbc-kr": {
     "video_id": "CYWpRpUiDJI",
     "status": "live",
-    "video_title": "\"브로커에 3억 2천만 원\" 빼박 육성 확보..\"오세훈에 대면보고\"..터져나온 한강버스 리베이트 의혹-[핫이슈PLAY] MBC뉴스 2026년 10월 16일",
+    "video_title": "\"브로커에 3억 2천만 원\" 빼박 육성 확보..\"오세훈에 대면 보고\"..둑 터진 한강버스 리베이트 의혹-[핫이슈PLAY] MBC뉴스 2026년 10월 16일",
     "last_search": "2026-10-16T11:57:47.205460Z"
   },
   "sbs-kr": {
+    "video_id": "FzkhGwQJbgw",
+    "status": "live",
+    "video_title": "[🔴속보] \"실실 웃으면서!\" \"반말하지 마세요!\" 국회 과방위 국정감사..'이진숙 제척' 여야 고성 충돌 90분 만에 파행 / SBS 실시간 라이브",
+    "last_search": "2026-10-16T15:56:33.342742Z"
+  },
+  "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-16T06:29:47.229315Z"
-  },
-  "abs-cbn": {
-    "video_id": "g-R16ixC054",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Evening Rush Hour) | October 16, 2026",
     "last_search": "2026-10-16T11:57:47.404638Z"
   },
   "gma": {
-    "video_id": "oLco_tVzZwI",
-    "status": "live",
-    "video_title": "24 Oras Livestream: October 16, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-16T11:57:47.597423Z"
   },
   "news5": {
@@ -126,9 +126,9 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "XBYuC8RIwvw",
-    "status": "live",
-    "video_title": "WATCH: Larry Gadon Live! | October 16, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-16T11:57:47.844012Z"
   },
   "bbc": {
