@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "KQT3uyD6jQQ",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 16",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-16T22:16:15.994599Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-16T19:08:41.867857Z"
+    "video_id": "vJzzzwro7gs",
+    "status": "live",
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月17日）｜TBS NEWS DIG",
+    "last_search": "2026-10-17T05:07:56.593007Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-16T19:08:42.105655Z"
+    "last_search": "2026-10-17T05:07:56.778342Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -90,16 +90,16 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "ndCFPnoMMnA",
+    "video_id": "vsGS-bZK_PM",
     "status": "live",
-    "video_title": "사상자 300명 넘었는데 또 공격...끝없이 난타당하는 사우디 '초비상' [이슈픽] / YTN",
-    "last_search": "2026-10-16T15:56:33.010966Z"
+    "video_title": "러 제재까지 풀었지만 '역부족'…전 세계 '마비' 위기 [에디터픽] / YTN",
+    "last_search": "2026-10-17T05:07:57.096475Z"
   },
   "mbc-kr": {
-    "video_id": "CYWpRpUiDJI",
+    "video_id": "comMZuauVnU",
     "status": "live",
-    "video_title": "\"브로커에 3억 2천만 원\" 빼박 육성 확보..\"오세훈에 대면 보고\"..둑 터진 한강버스 리베이트 의혹-[핫이슈PLAY] MBC뉴스 2026년 10월 16일",
-    "last_search": "2026-10-16T11:57:47.205460Z"
+    "video_title": "‘소방재정 빨대 발언 파문’ 추미애 경기도지사, 부천화재 순직 소방관 조문 - [끝까지LIVE] MBC중계방송 2026년 10월 17일",
+    "last_search": "2026-10-17T05:07:57.446935Z"
   },
   "sbs-kr": {
     "video_id": "fr7JgZBXC10",
@@ -111,13 +111,13 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-16T19:08:42.229126Z"
+    "last_search": "2026-10-17T05:07:57.657349Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-16T19:08:42.456538Z"
+    "last_search": "2026-10-17T05:07:57.836908Z"
   },
   "news5": {
     "video_id": "",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-16T19:08:42.719926Z"
+    "video_id": "S5GhuscfAxs",
+    "status": "live",
+    "video_title": "Sentro Balita Weekend | October 17, 2026",
+    "last_search": "2026-10-17T05:07:58.078529Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-16T19:08:42.854744Z"
+    "last_search": "2026-10-17T05:07:58.289356Z"
   },
   "cna": {
     "video_id": "-PWMxjBgr0k",
