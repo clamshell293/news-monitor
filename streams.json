@@ -18,10 +18,10 @@
     "last_search": "2026-10-16T22:16:15.994599Z"
   },
   "cbs": {
-    "video_id": "MMCqhcEgwLQ",
-    "status": "live",
-    "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-16T11:57:46.468041Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-10-18T14:57:13.066724Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-18T06:41:46.270057Z"
+    "video_id": "Xl_x-Go397M",
+    "status": "live",
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月18日）｜TBS NEWS DIG",
+    "last_search": "2026-10-18T14:57:13.490692Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-18T06:41:46.429572Z"
+    "last_search": "2026-10-18T14:57:13.611829Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "2LgmPPKw19o",
+    "video_id": "BWLh_hKXjmg",
     "status": "live",
-    "video_title": "유조선 잇단 폭발에 호르무즈 '초긴장'…이집트 군사 개입까지 '이상기류' [에디터픽] / YTN",
-    "last_search": "2026-10-18T01:43:45.708592Z"
+    "video_title": "후티, 사우디 심장부 연쇄 타격…이집트 군사 개입까지 '대위기' [이슈픽] / YTN",
+    "last_search": "2026-10-18T14:57:13.881740Z"
   },
   "mbc-kr": {
     "video_id": "YWJ2wl1W9vo",
@@ -102,22 +102,22 @@
     "last_search": "2026-10-18T06:41:46.776796Z"
   },
   "sbs-kr": {
-    "video_id": "RX_lVScXNMw",
+    "video_id": "MpL7Mmr9Fow",
     "status": "live",
-    "video_title": "[🔴속보] \"끝이야, 더는 못 참아!\" 젤렌스키 폭발..우크라, 러시아 정유시설 공습 재개 트럼프 '에너지 휴전' 붕괴 / SBS 실시간 라이브",
-    "last_search": "2026-10-18T01:43:45.945477Z"
+    "video_title": "[🔴속보] \"러시아와 경유딜 부적절\" 트럼프 공개 비난한 젤렌스키..\"우크라, 하루동안 드론 1천개 쐈다\" 상트페테르부르그 석유터미널 불바다 / SBS 실시간 라이브",
+    "last_search": "2026-10-18T14:57:14.252748Z"
   },
   "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-18T06:41:46.942748Z"
+    "last_search": "2026-10-18T14:57:14.412044Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-18T06:41:47.259647Z"
+    "last_search": "2026-10-18T14:57:14.566851Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-18T06:41:47.461793Z"
+    "last_search": "2026-10-18T14:57:14.787784Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-18T06:41:47.654480Z"
+    "last_search": "2026-10-18T14:57:14.999298Z"
   },
   "cna": {
     "video_id": "-PWMxjBgr0k",
