@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "d5AD1Zw8Heg",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月19日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-18T21:58:08.290153Z"
   },
   "ann": {
@@ -68,7 +68,7 @@
   "ebc": {
     "video_id": "V1p33hqPrUk",
     "status": "live",
-    "video_title": "🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
+    "video_title": "【台股開盤重挫】🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
     "last_search": "2026-09-27T07:06:37.653532Z"
   },
   "cti": {
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "BWLh_hKXjmg",
+    "video_id": "V6PiiMm0yH0",
     "status": "live",
-    "video_title": "후티, 사우디 심장부 연쇄 타격…이집트 군사 개입까지 '대위기' [이슈픽] / YTN",
-    "last_search": "2026-10-18T14:57:13.881740Z"
+    "video_title": "[LIVE] 국토위, 서울시 국정감사…'용산공원 주택공급' 이견 공방 예상 / YTN",
+    "last_search": "2026-10-19T02:01:22.236734Z"
   },
   "mbc-kr": {
     "video_id": "iiNSsGG4t2M",
@@ -108,15 +108,15 @@
     "last_search": "2026-10-18T14:57:14.252748Z"
   },
   "abs-cbn": {
-    "video_id": "I1yQHHzA0wY",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Morning Rush Hour) | October 19, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-18T21:58:08.792452Z"
   },
   "gma": {
-    "video_id": "X8wVeXr6yoM",
-    "status": "live",
-    "video_title": "Dobol B TV Livestream: October 19, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-18T21:58:09.063616Z"
   },
   "news5": {
