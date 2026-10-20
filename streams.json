@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "QltvipOViT0",
-    "status": "live",
-    "video_title": "LIVE: NBC News NOW",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-20T08:56:05.818731Z"
   },
   "cbs": {
-    "video_id": "E4zB_LgD-T0",
+    "video_id": "3YNSR2Xzjnw",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-19T23:59:08.998959Z"
+    "last_search": "2026-10-20T13:57:36.301220Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "UnpgmhjHSfw",
-    "status": "live",
-    "video_title": "【国会中継・リプレイ】衆議院本会議 消費税減税の関連法案が審議入り（2026年10月20日午後1時～ LIVE配信）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-20T08:56:09.421169Z"
   },
   "ann": {
@@ -86,31 +86,31 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】美艦闖南沙群島附近海域 南部戰區回應｜法國內政部長請辭被拒 盧浮宮遭封鎖臨時閉館｜APEC財長會在香港舉行｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】以總理與特朗普通話 並下令“推翻伊朗政權”｜法國至少3千家商鋪遭劫掠｜APEC財長會開幕 籲加強經濟政策對話｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "2lv9zd1hnbQ",
+    "video_id": "pZUXKPKTdEY",
     "status": "live",
-    "video_title": "\"역사상 이런 일이 없었다\"…썰렁한 유세장에 '발끈' [에디터픽] / YTN",
-    "last_search": "2026-10-20T03:26:51.364520Z"
+    "video_title": "우크라, 러시아 본토 대규모 공습 강행…흑해 상공까지 '발칵' [이슈픽] / YTN",
+    "last_search": "2026-10-20T13:57:36.587020Z"
   },
   "mbc-kr": {
-    "video_id": "ruZjah-pif4",
+    "video_id": "bJKJXrZxRNc",
     "status": "live",
-    "video_title": "[속보] 루브르 박물관도 봉쇄.. \"전쟁터 방불\", 리옹·마르세유 초토화.. \"일부지역 통행금지\" - [MBC 뉴스속보] MBC뉴스 2026년 10월 20일",
-    "last_search": "2026-10-19T20:47:13.905439Z"
+    "video_title": "이재명 대통령, 계양산 전통시장 방문 민생 목소리 청취 현장 - [현장PLAY] MBC뉴스 2026년 10월 20일",
+    "last_search": "2026-10-20T13:57:36.888343Z"
   },
   "sbs-kr": {
-    "video_id": "pY49tKtHj3E",
-    "status": "live",
-    "video_title": "[🔴속보] 역삼동 '연쇄 방화' 피의자..수서경찰서 압송 / \"4년 전에도 같은 건물에서 방화 시도\"..구속 전력 / SBS 뉴스속보 실시간 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-20T08:56:09.867823Z"
   },
   "abs-cbn": {
-    "video_id": "pQAz7mvQqUA",
-    "status": "live",
-    "video_title": "Top Story | ANC (20 October 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-20T08:56:10.094328Z"
   },
   "gma": {
