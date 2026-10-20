@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "r3XkxI9nkCQ",
-    "status": "live",
-    "video_title": "LIVE: Trump and Vance make announcement on fraud whistleblower program | NBC News",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-20T18:14:12.615186Z"
   },
   "cbs": {
-    "video_id": "3YNSR2Xzjnw",
-    "status": "live",
-    "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-20T13:57:36.301220Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-10-20T21:57:55.813714Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "zxk8jN9z66Q",
-    "status": "live",
-    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月20日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-20T18:14:13.035609Z"
   },
   "ann": {
@@ -96,10 +96,10 @@
     "last_search": "2026-10-20T13:57:36.587020Z"
   },
   "mbc-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-20T13:57:36.888343Z"
+    "video_id": "KC-UKw6b-EA",
+    "status": "live",
+    "video_title": "서울 역삼동 빌딩 2곳 화재 19명 부상‥70대 남성 체포 - [LIVE] MBC 뉴스투데이 2026년 10월 21일",
+    "last_search": "2026-10-20T21:57:56.146553Z"
   },
   "sbs-kr": {
     "video_id": "y8k0sOFrKWo",
