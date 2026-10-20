@@ -12,10 +12,10 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-19T23:59:08.692055Z"
+    "video_id": "QltvipOViT0",
+    "status": "live",
+    "video_title": "LIVE: NBC News NOW",
+    "last_search": "2026-10-20T08:56:05.818731Z"
   },
   "cbs": {
     "video_id": "E4zB_LgD-T0",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-19T23:59:09.610610Z"
+    "video_id": "UnpgmhjHSfw",
+    "status": "live",
+    "video_title": "【国会中継・リプレイ】衆議院本会議 消費税減税の関連法案が審議入り（2026年10月20日午後1時～ LIVE配信）｜TBS NEWS DIG",
+    "last_search": "2026-10-20T08:56:09.421169Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-19T23:59:09.808581Z"
+    "last_search": "2026-10-20T08:56:09.624534Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,7 +86,7 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】普京傳邀習近平特朗普討論俄烏 特朗普：願談｜法國巴黎四市鎮局部宵禁防騷亂重臨｜俄外長今年美伊戰爭以來首訪伊朗｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】美艦闖南沙群島附近海域 南部戰區回應｜法國內政部長請辭被拒 盧浮宮遭封鎖臨時閉館｜APEC財長會在香港舉行｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
@@ -98,26 +98,26 @@
   "mbc-kr": {
     "video_id": "ruZjah-pif4",
     "status": "live",
-    "video_title": "[속보] 루브르 박물관도 봉쇄.. \"전쟁터 방불\", 리옹·마르세유 초토화.. \"일부지역 통행금지\" - [MBC뉴스속보] MBC뉴스 2026년 10월 20일",
+    "video_title": "[속보] 루브르 박물관도 봉쇄.. \"전쟁터 방불\", 리옹·마르세유 초토화.. \"일부지역 통행금지\" - [MBC 뉴스속보] MBC뉴스 2026년 10월 20일",
     "last_search": "2026-10-19T20:47:13.905439Z"
   },
   "sbs-kr": {
-    "video_id": "pXYreGJY4A4",
+    "video_id": "pY49tKtHj3E",
     "status": "live",
-    "video_title": "🔴LIVE \"이대론 못 살아!\" \"국가빚 6천 조\"..'분노의 들불' 유럽 전역으로/ SBS 뉴스속보",
-    "last_search": "2026-10-19T15:55:58.456313Z"
+    "video_title": "[🔴속보] 역삼동 '연쇄 방화' 피의자..수서경찰서 압송 / \"4년 전에도 같은 건물에서 방화 시도\"..구속 전력 / SBS 뉴스속보 실시간 라이브",
+    "last_search": "2026-10-20T08:56:09.867823Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-19T23:59:10.123951Z"
+    "video_id": "pQAz7mvQqUA",
+    "status": "live",
+    "video_title": "Top Story | ANC (20 October 2026)",
+    "last_search": "2026-10-20T08:56:10.094328Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-19T23:59:10.475936Z"
+    "last_search": "2026-10-20T08:56:10.303116Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-19T23:59:10.848273Z"
+    "last_search": "2026-10-20T08:56:10.434240Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-19T23:59:11.155116Z"
+    "last_search": "2026-10-20T08:56:10.564240Z"
   },
   "cna": {
     "video_id": "-PWMxjBgr0k",
