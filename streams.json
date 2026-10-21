@@ -12,10 +12,10 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-21T00:20:34.373662Z"
+    "video_id": "X2YAMGmZ7gw",
+    "status": "live",
+    "video_title": "LIVE: NBC News NOW - Oct. 21",
+    "last_search": "2026-10-21T10:42:07.451467Z"
   },
   "cbs": {
     "video_id": "DT-meBfnJyI",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-21T00:20:34.826779Z"
+    "video_id": "wXkYg_2PCoE",
+    "status": "live",
+    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月21日）｜TBS NEWS DIG",
+    "last_search": "2026-10-21T10:42:09.667836Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-21T00:20:34.980093Z"
+    "last_search": "2026-10-21T10:42:09.842873Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,13 +86,13 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】伊朗被曝拖延談判施壓特朗普｜法國巴黎部分街區再次實施宵禁｜李強抵聖彼得堡 舉行中俄總理定期會晤｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】英國將派遣戰機協助沙特抵禦胡塞襲擊｜特朗普稱俄軍持續推進 促澤連斯基達協議｜巴基斯坦軍方高層突訪伊朗｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "oKYKX1uT8E0",
-    "status": "live",
-    "video_title": "기어코 '군 병력' 투입 결정…'빚 폭탄' 프랑스의 선택 [에디터픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-21T05:27:00.343173Z"
   },
   "mbc-kr": {
@@ -102,22 +102,22 @@
     "last_search": "2026-10-21T05:27:00.685787Z"
   },
   "sbs-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-21T00:20:35.308324Z"
+    "video_id": "QTLxQIuLJCk",
+    "status": "live",
+    "video_title": "[🔴속보] \"부캉이 바다로 나갔다\" 3차 외해 유도 작업..잠수사 투입 8시간 작업 벌인 끝에 '성공' / SBS 실시간 라이브",
+    "last_search": "2026-10-21T10:42:10.191657Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-21T00:20:35.520099Z"
+    "video_id": "JCScwLjyZAE",
+    "status": "live",
+    "video_title": "LIVE: Metro Manila traffic situation and updates (Evening Rush Hour) | October 21, 2026",
+    "last_search": "2026-10-21T10:42:10.548713Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-21T00:20:35.756038Z"
+    "video_id": "IO_EDn8OqE4",
+    "status": "live",
+    "video_title": "24 Oras Livestream: October 21, 2026",
+    "last_search": "2026-10-21T10:42:10.815258Z"
   },
   "news5": {
     "video_id": "",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-21T00:20:35.907324Z"
+    "video_id": "B5LZdrPEzxs",
+    "status": "live",
+    "video_title": "NGAYON: Alamin ang mga maiinit na balita sa Ulat Bayan | October 21, 2026",
+    "last_search": "2026-10-21T10:42:11.090253Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
@@ -153,7 +153,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-21T00:20:36.016168Z"
+    "last_search": "2026-10-21T10:42:11.241219Z"
   },
   "cna": {
     "video_id": "-PWMxjBgr0k",
