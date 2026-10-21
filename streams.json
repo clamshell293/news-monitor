@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "FEhRCW6owaU",
-    "status": "live",
-    "video_title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 20",
-    "last_search": "2026-10-21T00:20:34.373662Z"
-  },
-  "cbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-20T21:57:55.813714Z"
+    "last_search": "2026-10-21T00:20:34.373662Z"
+  },
+  "cbs": {
+    "video_id": "DT-meBfnJyI",
+    "status": "live",
+    "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+    "last_search": "2026-10-21T05:27:00.009599Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "Vs65aRu7618",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月21日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-21T00:20:34.826779Z"
   },
   "ann": {
@@ -86,37 +86,37 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】以總理與特朗普通話 並下令“推翻伊朗政權”｜法國至少3千家商鋪遭劫掠｜APEC財長會開幕 籲加強經濟政策對話｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】伊朗被曝拖延談判施壓特朗普｜法國巴黎部分街區再次實施宵禁｜李強抵聖彼得堡 舉行中俄總理定期會晤｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "pZUXKPKTdEY",
+    "video_id": "oKYKX1uT8E0",
     "status": "live",
-    "video_title": "우크라, 러시아 본토 대규모 공습 강행…흑해 상공까지 '발칵' [이슈픽] / YTN",
-    "last_search": "2026-10-20T13:57:36.587020Z"
+    "video_title": "기어코 '군 병력' 투입 결정…'빚 폭탄' 프랑스의 선택 [에디터픽] / YTN",
+    "last_search": "2026-10-21T05:27:00.343173Z"
   },
   "mbc-kr": {
+    "video_id": "A55-MazqZWQ",
+    "status": "live",
+    "video_title": "[속보] '대장동 50억 클럽 의혹'.. 박영수 전 특별검사 항소심 징역 6년 선고 - [MBC뉴스속보] MBC뉴스 2026년 10월 21일",
+    "last_search": "2026-10-21T05:27:00.685787Z"
+  },
+  "sbs-kr": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-20T21:57:56.146553Z"
-  },
-  "sbs-kr": {
-    "video_id": "1PaRBYrNVCU",
-    "status": "live",
-    "video_title": "[🔴이슈] \"집값 못 잡는다\" 분노 폭발.. 오세훈, 추미애도 \"토허제 해제 필요\" / 토허제 실시 1년, 운명은? / SBS 논스톱 실시간 라이브",
     "last_search": "2026-10-21T00:20:35.308324Z"
   },
   "abs-cbn": {
-    "video_id": "tvQ76RsfzHE",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Morning Rush Hour) | October 21, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-21T00:20:35.520099Z"
   },
   "gma": {
-    "video_id": "UPj2wBR8C3o",
-    "status": "live",
-    "video_title": "Dobol B TV Livestream: October 21, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-21T00:20:35.756038Z"
   },
   "news5": {
