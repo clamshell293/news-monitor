@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "0oXHkeRZoaw",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 21",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-21T22:50:37.294379Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-21T19:43:05.851624Z"
+    "video_id": "LvJ3dyvOEVM",
+    "status": "live",
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月22日）｜TBS NEWS DIG",
+    "last_search": "2026-10-22T06:43:42.292878Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-21T19:43:06.090134Z"
+    "last_search": "2026-10-22T06:43:42.478272Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -68,7 +68,7 @@
   "ebc": {
     "video_id": "V1p33hqPrUk",
     "status": "live",
-    "video_title": "🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
+    "video_title": "🔴【薔琵停班課最新資訊】東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
     "last_search": "2026-09-27T07:06:37.653532Z"
   },
   "cti": {
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】日本請求放寬稀土管制 中方回應｜魯比奧：無美國支援烏克蘭已“滅國”｜“羅斯福”號航母將於11月抵中東｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平出席紀念紅軍長征勝利90周年大會｜普京見威特科夫 同意重啟俄美烏三方會談｜美以軍方已制定再次打伊朗計劃｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "norWvlGAwec",
+    "video_id": "oKblVZSKSCI",
     "status": "live",
-    "video_title": "숨 막히는 경로 한반도 '초긴장'…'시속 200㎞' 슈퍼 태풍 '참피' 북상 [이슈픽] / YTN",
-    "last_search": "2026-10-21T15:41:53.716251Z"
+    "video_title": "'역대급 기록' 세우며 북상 중…주말 내내 전국 비바람 가능성 [에디터픽] / YTN",
+    "last_search": "2026-10-22T06:43:42.790037Z"
   },
   "mbc-kr": {
-    "video_id": "MKhWtUWMsbE",
+    "video_id": "D2kZ2zED6Dc",
     "status": "live",
-    "video_title": "한밤 파리 상공 헬기 선회..샹제리제 '충격', 폭발한 청년들 주말 추가시위..\"대테러부대 투입\" - [핫이슈PLAY] MBC뉴스 2026년 10월 22일",
-    "last_search": "2026-10-21T22:50:37.854384Z"
+    "video_title": "국회 정무위원회 국정감사(금융위원회 등) - [끝까지LIVE] MBC중계방송 2026년 10월 22일",
+    "last_search": "2026-10-22T06:43:43.128515Z"
   },
   "sbs-kr": {
-    "video_id": "toWa3DoNAh4",
-    "status": "live",
-    "video_title": "🔴LIVE 아침 기온 10도 '뚝' \"얼음도 관측\"..'시속 250km' 슈퍼 태풍 참피 \"제주 영향권\" / SBS 실시간 라이브",
-    "last_search": "2026-10-22T01:02:02.185379Z"
-  },
-  "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-21T19:43:06.260257Z"
+    "last_search": "2026-10-22T01:02:02.185379Z"
+  },
+  "abs-cbn": {
+    "video_id": "Z9puFmzV188",
+    "status": "live",
+    "video_title": "LIVE: House holds hearing on major drug seizures and arrests in Laos and Thailand | October 22, 2026",
+    "last_search": "2026-10-22T06:43:43.430741Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-21T19:43:06.426010Z"
+    "last_search": "2026-10-22T06:43:43.605982Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-21T19:43:06.593242Z"
+    "last_search": "2026-10-22T06:43:43.750987Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
