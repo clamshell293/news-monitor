@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "0oXHkeRZoaw",
+    "video_id": "xPtxnwQREmE",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-10-21T22:50:37.294379Z"
+    "video_title": "LIVE: NBC News NOW - Oct. 22",
+    "last_search": "2026-10-22T12:34:29.888398Z"
   },
   "cbs": {
-    "video_id": "DFdWWKa2rc4",
+    "video_id": "I9M1hVv8V_c",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-22T01:02:01.851793Z"
+    "last_search": "2026-10-22T12:34:30.172419Z"
   },
   "abc-us": {
     "video_id": "iipR5yUp36o",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "LvJ3dyvOEVM",
-    "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月22日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-22T06:43:42.292878Z"
   },
   "ann": {
@@ -50,7 +50,7 @@
   "global": {
     "video_id": "Y8eZYHy8BDc",
     "status": "live",
-    "video_title": "抗議學校資源嚴重不足! 法國大規模學生示威熱度不減 ｜美財長傳停發20年期公債 華爾街緊盯恐舊事重演   寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
+    "video_title": "川普將法國暴動怪罪給移民 馬克宏暗酸愚蠢言論 ｜川普稱烏俄很快達成終戰 俄國已準備好三方會談   寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
     "last_search": "2026-10-13T08:35:33.782071Z"
   },
   "tvbs": {
@@ -86,31 +86,31 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平出席紀念紅軍長征勝利90周年大會｜普京見威特科夫 同意重啟俄美烏三方會談｜美以軍方已制定再次打伊朗計劃｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】美以被曝已制定中選後再襲伊朗計劃｜美媒：馬斯克下令對烏克蘭使用“星盾”限速｜馬克龍：特朗普利用法國為自己助選｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "oKblVZSKSCI",
-    "status": "live",
-    "video_title": "'역대급 기록' 세우며 북상 중…주말 내내 전국 비바람 가능성 [에디터픽] / YTN",
-    "last_search": "2026-10-22T06:43:42.790037Z"
-  },
-  "mbc-kr": {
-    "video_id": "D2kZ2zED6Dc",
-    "status": "live",
-    "video_title": "국회 정무위원회 국정감사(금융위원회 등) - [끝까지LIVE] MBC중계방송 2026년 10월 22일",
-    "last_search": "2026-10-22T06:43:43.128515Z"
-  },
-  "sbs-kr": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-22T01:02:02.185379Z"
+    "last_search": "2026-10-22T06:43:42.790037Z"
+  },
+  "mbc-kr": {
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-10-22T06:43:43.128515Z"
+  },
+  "sbs-kr": {
+    "video_id": "u2jdgweeyvs",
+    "status": "live",
+    "video_title": "[🔴이슈] \"이거 방탄 유리야\" 약탈 막았다..'2천 명 체포' \"취소 수수료 면제\"/ SBS 이슈라이브",
+    "last_search": "2026-10-22T12:34:30.478605Z"
   },
   "abs-cbn": {
-    "video_id": "Z9puFmzV188",
-    "status": "live",
-    "video_title": "LIVE: House holds hearing on major drug seizures and arrests in Laos and Thailand | October 22, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-22T06:43:43.430741Z"
   },
   "gma": {
