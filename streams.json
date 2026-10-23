@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "KhkNcaErtes",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 22",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-22T23:42:51.728917Z"
   },
   "cbs": {
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "K7pz0LIzMio",
-    "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月23日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-23T02:10:57.747950Z"
   },
   "ann": {
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-22T23:42:52.323978Z"
+    "last_search": "2026-10-23T07:59:56.115823Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平對西藏那曲巴青地震作出重要指示｜普京：重啟俄美烏會談不是僅為短暫停火｜馬克龍將召開國安會議應對周末示威｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】特朗普據報要求馬斯克解除對烏星鏈限速｜伊朗罕見公佈無人機設施 展示反擊能力｜多方救援保障力量趕抵西藏地震災區｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "_ZapXahCxvQ",
-    "status": "live",
-    "video_title": "\"푸틴 꼭두각시냐\"…트럼프 대러 행보에 공화당 '균열' [에디터픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-23T02:10:58.127996Z"
   },
   "mbc-kr": {
-    "video_id": "RuzSZyinQjI",
+    "video_id": "OD2DmwdluXw",
     "status": "live",
-    "video_title": "[속보] 1천 명 파리도심 또 집결, 경찰과 대치..프랑스 시위 금지령, \"밀라노 공수부대 투입\"..유럽 전역 초긴장 - [MBC뉴스속보] MBC뉴스 2026년 10월 23일",
-    "last_search": "2026-10-22T17:41:45.358096Z"
+    "video_title": "'잠영 중?'..자취 감춘 '부캉이'..이제 진짜 바다로 돌아갔나? - [핫이슈PLAY] MBC뉴스 2026년 10월 23일",
+    "last_search": "2026-10-23T07:59:56.449589Z"
   },
   "sbs-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-22T20:54:27.488143Z"
+    "video_id": "HDR2UTh4H5Q",
+    "status": "live",
+    "video_title": "[🔴속보] \"미국, 이란 3일 집중 타격 검토\" 중간선거 앞두고..사우디 체류 공무원·가족에 대피령 \"후티 반군 군사작전 임박\" / SBS 실시간 라이브",
+    "last_search": "2026-10-23T07:59:56.738161Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-22T23:42:52.658270Z"
+    "video_id": "lukaZKlN9p0",
+    "status": "live",
+    "video_title": "LIVE: Metro Manila traffic situation and updates (Afternoon Rush Hour) | October 23, 2026",
+    "last_search": "2026-10-23T07:59:57.041473Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-22T23:42:52.994684Z"
+    "last_search": "2026-10-23T07:59:57.202939Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-22T23:42:53.322720Z"
+    "last_search": "2026-10-23T07:59:57.389566Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
