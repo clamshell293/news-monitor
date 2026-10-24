@@ -12,10 +12,10 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-24T00:05:57.785779Z"
+    "video_id": "aF9neWULq64",
+    "status": "live",
+    "video_title": "LIVE: NBC News NOW",
+    "last_search": "2026-10-24T09:53:50.432284Z"
   },
   "cbs": {
     "video_id": "",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "PMg_McY1m2M",
-    "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月24日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-24T05:09:05.818364Z"
   },
   "ann": {
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-24T00:05:57.974682Z"
+    "last_search": "2026-10-24T09:53:50.611650Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -90,9 +90,9 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "uVK-xA47LCg",
-    "status": "live",
-    "video_title": "태풍 '참피', 제주·남부 비바람 직격탄…주말 최대 250mm 물폭탄 예고 [에디터픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-24T05:09:06.210932Z"
   },
   "mbc-kr": {
@@ -102,22 +102,22 @@
     "last_search": "2026-10-24T00:05:58.289578Z"
   },
   "sbs-kr": {
-    "video_id": "6ZBwAsa4vDc",
-    "status": "live",
-    "video_title": "[🔴속보] \"'초고도 비만'이지만 멀쩡\" 전격 사진 공개에도 'AI 조작설' / SBS 실시간 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-24T05:09:06.575425Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-24T00:05:58.431617Z"
+    "video_id": "kzTEdZMRhkw",
+    "status": "live",
+    "video_title": "LIVE: Metro Manila traffic situation and updates (Afternoon Rush Hour) | October 24, 2026",
+    "last_search": "2026-10-24T09:53:50.855827Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-24T00:05:58.716795Z"
+    "video_id": "f9qaMTRXMsI",
+    "status": "live",
+    "video_title": "24 Oras Weekend Livestream: October 24, 2026",
+    "last_search": "2026-10-24T09:53:51.097048Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-24T00:05:58.920985Z"
+    "last_search": "2026-10-24T09:53:51.266871Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
