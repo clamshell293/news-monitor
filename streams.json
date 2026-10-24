@@ -21,7 +21,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-24T05:09:04.833577Z"
+    "last_search": "2026-10-24T13:40:42.106863Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-24T05:09:05.818364Z"
+    "video_id": "oT0ws4DS5Lo",
+    "status": "live",
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月24日）｜TBS NEWS DIG",
+    "last_search": "2026-10-24T13:40:42.851465Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-24T05:09:06.210932Z"
+    "video_id": "GtXtQC-TqRM",
+    "status": "live",
+    "video_title": "루브르 박물관까지 문 닫았다…'대규모 시위' 앞둔 프랑스 '최악의 위기' [이슈픽] / YTN",
+    "last_search": "2026-10-24T13:40:43.146697Z"
   },
   "mbc-kr": {
     "video_id": "9nQn4i0NXZw",
@@ -102,21 +102,21 @@
     "last_search": "2026-10-24T00:05:58.289578Z"
   },
   "sbs-kr": {
+    "video_id": "psh-ZNzfmcc",
+    "status": "live",
+    "video_title": "[🔴LIVE] 태풍 '참피' 북상에 한국도 '비상'..제주 최대 250mm 폭우 / 이 시각 태풍 상황 / SBS 실시간 라이브",
+    "last_search": "2026-10-24T13:40:43.456382Z"
+  },
+  "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-24T05:09:06.575425Z"
-  },
-  "abs-cbn": {
-    "video_id": "kzTEdZMRhkw",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Afternoon Rush Hour) | October 24, 2026",
     "last_search": "2026-10-24T09:53:50.855827Z"
   },
   "gma": {
-    "video_id": "f9qaMTRXMsI",
-    "status": "live",
-    "video_title": "24 Oras Weekend Livestream: October 24, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-24T09:53:51.097048Z"
   },
   "news5": {
