@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "XP6u_bxOSvs",
-    "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月25日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-25T05:25:37.220539Z"
   },
   "ann": {
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-25T00:37:15.287550Z"
+    "last_search": "2026-10-25T10:15:11.323693Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -90,34 +90,34 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "dP3qVnpUWgU",
-    "status": "live",
-    "video_title": "유럽 곳곳서 터져 나온 분노...불길 치솟고 경찰과 충돌 '아수라장' [에디터픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-25T05:25:37.447372Z"
   },
   "mbc-kr": {
-    "video_id": "k7zUdXOgvgI",
+    "video_id": "NItMeSM7-zs",
     "status": "live",
-    "video_title": "'한강버스 리베이트'..'총체 부실?'..시끄러운 오세훈표 한강버스..왜? - [핫이슈PLAY] MBC뉴스 2026년 10월 24일",
-    "last_search": "2026-10-24T17:02:54.394632Z"
+    "video_title": "[속보] '참피' 북상중..제주 먼바다 '태풍경보'..한라산 260mm 폭우..항공편 차질· 결항 - [MBC뉴스속보] MBC뉴스 2026년 10월 25일",
+    "last_search": "2026-10-25T10:15:11.601276Z"
   },
   "sbs-kr": {
-    "video_id": "nahrJhqAZRI",
-    "status": "live",
-    "video_title": "[🔴LIVE] 국민의힘 정점식 원내대표 기자회견 / SBS 실시간 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-25T05:25:37.684198Z"
   },
   "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-25T00:37:15.572940Z"
+    "last_search": "2026-10-25T10:15:11.821991Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-25T00:37:15.772709Z"
+    "video_id": "_yVu2odfwGE",
+    "status": "live",
+    "video_title": "24 Oras Weekend Livestream: October 25, 2026",
+    "last_search": "2026-10-25T10:15:12.000384Z"
   },
   "news5": {
     "video_id": "",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-25T00:37:15.942527Z"
+    "video_id": "nw_X1JvkC9s",
+    "status": "live",
+    "video_title": "NGAYON: Alamin ang mga maiinit na balita sa Ulat Bayan Weekend | October 25, 2026",
+    "last_search": "2026-10-25T10:15:12.210740Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
