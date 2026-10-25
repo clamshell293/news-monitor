@@ -21,7 +21,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-25T05:25:36.778088Z"
+    "last_search": "2026-10-25T14:37:18.655485Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-25T05:25:37.220539Z"
+    "video_id": "fLakCRnR8OQ",
+    "status": "live",
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月25日）｜TBS NEWS DIG",
+    "last_search": "2026-10-25T14:37:19.357340Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -90,10 +90,10 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-25T05:25:37.447372Z"
+    "video_id": "EeXnpg_ln2Y",
+    "status": "live",
+    "video_title": "자신만만하던 트럼프에 '날벼락'...백악관 덮친 심상찮은 역풍 [이슈픽] / YTN",
+    "last_search": "2026-10-25T14:37:19.632396Z"
   },
   "mbc-kr": {
     "video_id": "NItMeSM7-zs",
@@ -102,10 +102,10 @@
     "last_search": "2026-10-25T10:15:11.601276Z"
   },
   "sbs-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-25T05:25:37.684198Z"
+    "video_id": "qzbnPRQ1SuU",
+    "status": "live",
+    "video_title": "[🔴LIVE] 내일 새벽 태풍 최근접..한국도 '비상' / 이 시각 태풍 상황 / SBS 실시간 라이브",
+    "last_search": "2026-10-25T14:37:19.935548Z"
   },
   "abs-cbn": {
     "video_id": "",
@@ -114,9 +114,9 @@
     "last_search": "2026-10-25T10:15:11.821991Z"
   },
   "gma": {
-    "video_id": "_yVu2odfwGE",
-    "status": "live",
-    "video_title": "24 Oras Weekend Livestream: October 25, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-25T10:15:12.000384Z"
   },
   "news5": {
@@ -126,9 +126,9 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "nw_X1JvkC9s",
-    "status": "live",
-    "video_title": "NGAYON: Alamin ang mga maiinit na balita sa Ulat Bayan Weekend | October 25, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-25T10:15:12.210740Z"
   },
   "bbc": {
