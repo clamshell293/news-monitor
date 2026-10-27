@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "_UHQ3Dhwnlw",
+    "video_id": "wvY8yOPyNVI",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-10-27T01:03:56.134934Z"
+    "video_title": "LIVE: NBC News NOW - Oct. 27",
+    "last_search": "2026-10-27T12:48:50.201843Z"
   },
   "cbs": {
-    "video_id": "Bt-ZIVzUBtM",
+    "video_id": "ZwPOtUEfhz8",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-27T01:03:56.446263Z"
+    "last_search": "2026-10-27T12:48:50.478686Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-27T01:03:56.981581Z"
+    "video_id": "1TV33UGFgNQ",
+    "status": "live",
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月27日）｜TBS NEWS DIG",
+    "last_search": "2026-10-27T12:48:50.902270Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-27T01:03:57.220583Z"
+    "last_search": "2026-10-27T12:48:51.081925Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,13 +86,13 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】以色列議會選舉開始投票｜民調：特朗普支持率小幅上升至32%｜伊朗總統訪俄 將會晤普京｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平致電祝賀盧拉當選連任巴西總統｜以色列議會選舉初步計票結果預計28日揭曉｜沈伯洋提“縫合說” 柯文哲反諷｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "urXzuCYQtGs",
-    "status": "live",
-    "video_title": "트럼프 향한 '최악의 부메랑'…\"바이든 때보다 끔찍\" [에디터픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-27T06:55:08.839574Z"
   },
   "mbc-kr": {
@@ -102,22 +102,22 @@
     "last_search": "2026-10-27T06:55:09.103612Z"
   },
   "sbs-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-27T01:03:57.525264Z"
+    "video_id": "EKzD5X9Kkz0",
+    "status": "live",
+    "video_title": "[🔴이슈] 앤트로픽 IPO발 훈풍에 코스피 5,600 회복...\"AI, 악용시 인류에 재앙\" / SBS 이슈라이브",
+    "last_search": "2026-10-27T12:48:51.367796Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-27T01:03:57.814612Z"
+    "video_id": "7s6RtkeQJGc",
+    "status": "live",
+    "video_title": "Spot Report | DZMM Teleradyo | (27 October 2026)",
+    "last_search": "2026-10-27T12:48:51.638569Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-27T01:03:58.065722Z"
+    "last_search": "2026-10-27T12:48:51.795274Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-27T01:03:58.264005Z"
+    "last_search": "2026-10-27T12:48:51.944768Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
