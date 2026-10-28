@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "VJ_CpdLJkJo",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 27",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-27T22:41:37.612023Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "a-5jvE2i2gA",
+    "video_id": "UlhLc0pWms0",
     "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月28日）｜TBS NEWS DIG",
-    "last_search": "2026-10-27T22:41:38.145638Z"
+    "video_title": "【国会中継・ライブ】食料品の消費税減税法案に関する質疑　衆議院 財務金融・農林水産 連合審査会（2026年10月28日午後1時30分～ LIVE配信）｜TBS NEWS DIG",
+    "last_search": "2026-10-28T07:36:46.456309Z"
   },
   "ann": {
     "video_id": "4GyL-3_I9Kc",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-27T22:41:38.335562Z"
+    "last_search": "2026-10-28T07:36:46.650202Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平向日本前首相福田康夫遺屬致唁電｜以色列議會選舉投票結束無陣營過半｜伊朗與麥加協議三國會晤 加盟言之尚早｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】特朗普稱若民主黨勝選 將設法應對｜普京會見伊朗總統 聚焦中東局勢與合作｜德國總統參觀德國車企在華研發中心｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "9e2tpNnEkgQ",
+    "video_id": "LbOdneWCZlA",
     "status": "live",
-    "video_title": "김정은 움직이자 '분위기 급변'…살얼음판 된 신의주 '촉각' [이슈픽] / YTN",
-    "last_search": "2026-10-27T18:25:39.874338Z"
+    "video_title": "입소문 타더니 1위까지…'한반도 전면전' 소재게임에 한국 '들썩' [에디터픽] / YTN",
+    "last_search": "2026-10-28T07:36:46.922647Z"
   },
   "mbc-kr": {
     "video_id": "C5OQdM7Ud-Y",
     "status": "live",
-    "video_title": "[속보] 반 네타냐후 52~53석vs친 네타냐후 50석..이스라엘 총선 출구조사 '초박빙' - [MBC 뉴스속보] MBC뉴스 2026년 10월 28일",
+    "video_title": "[속보] '초박빙' 이스라엘 총선 '개표 돌입'..77.7% 높은 투표율..양측 \"우리가 승리\" - [MBC 뉴스속보] MBC뉴스 2026년 10월 28일",
     "last_search": "2026-10-28T01:51:08.526345Z"
   },
   "sbs-kr": {
-    "video_id": "kmFmsMBtAh4",
-    "status": "live",
-    "video_title": "[🔴이슈] \"빗썸 잔고부터 확인\" 코인까지 번지는 해킹 공포 / SBS 실시간 라이브",
-    "last_search": "2026-10-28T01:51:08.853707Z"
-  },
-  "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-27T22:41:38.647337Z"
+    "last_search": "2026-10-28T01:51:08.853707Z"
+  },
+  "abs-cbn": {
+    "video_id": "XTNFpx-il1Q",
+    "status": "live",
+    "video_title": "Market Edge | ANC (28 October 2026)",
+    "last_search": "2026-10-28T07:36:47.167459Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-27T22:41:38.969957Z"
+    "last_search": "2026-10-28T07:36:47.355723Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-27T22:41:39.263114Z"
+    "last_search": "2026-10-28T07:36:47.533047Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
