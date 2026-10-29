@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "PuyDq8GPzN8",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 28",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-28T23:42:53.978756Z"
   },
   "cbs": {
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "e3QDTkq8VlU",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月29日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-28T23:42:54.634254Z"
   },
   "ann": {
@@ -86,37 +86,37 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】西班牙高鐵相撞致多人死傷！車上有中國公民 ｜特朗普：批准巴西落敗候選人來美｜以色列大選內塔尼亞胡領先但未過半｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】西班牙高速鐵路列車相撞 至少68死｜以色列選舉計票 暫時沒政黨達過半數議席｜特朗普暫不對機器人和工業機械加稅｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "uMzfDAYOoo0",
+    "video_id": "j76ex5c2ECA",
     "status": "live",
-    "video_title": "새벽 노린 '대규모 접근' 포착…\"북한 4군단 지역 변화 감지\" [이슈픽] / YTN",
-    "last_search": "2026-10-28T14:35:45.989733Z"
+    "video_title": "화염에 휩싸인 키이우 '아비규환'…우크라, 휴전 뒤편 더 거센 공습 [에디터픽] / YTN",
+    "last_search": "2026-10-29T03:04:52.802631Z"
   },
   "mbc-kr": {
     "video_id": "kvji0KkrTvc",
     "status": "live",
-    "video_title": "[속보] 스페인 고속열차 2대 추돌..\"최소 64명 사망\" 희생자 늘어날 듯..\"한국인 2명 경상\" - [MBC뉴스속보] MBC뉴스 2026년 10월 29일",
+    "video_title": "[속보] 스페인 고속열차 2대 추돌..\"최소 68명 사망\" 희생자 늘어날 듯..\"한국인 2명 경상\" - [MBC뉴스속보] MBC뉴스 2026년 10월 29일",
     "last_search": "2026-10-28T19:55:50.891943Z"
   },
   "sbs-kr": {
-    "video_id": "AodF6sQDoms",
+    "video_id": "NFoGRNry4EQ",
     "status": "live",
-    "video_title": "[🔴이슈] '빗썸' 사내 모바일 시스템..금융권 자체점검 20일만에 '해킹' 또 뚫렸다 / SBS 실시간 이슈라이브",
-    "last_search": "2026-10-28T14:35:46.292506Z"
+    "video_title": "[🔴이슈] 이스라엘 운명은 '아랍계 정당' 손에? 네타냐후당은 \"부정선거\" 주장 / SBS 실시간 라이브",
+    "last_search": "2026-10-29T03:04:53.086818Z"
   },
   "abs-cbn": {
-    "video_id": "zgM1w_ql8LA",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Morning Rush Hour) | October 29, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-28T23:42:55.148730Z"
   },
   "gma": {
-    "video_id": "I4849biCJ6U",
-    "status": "live",
-    "video_title": "Unang Hirit Livestream: October 29, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-28T23:42:55.419371Z"
   },
   "news5": {
@@ -126,9 +126,9 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "aJ8mLqjLddU",
-    "status": "live",
-    "video_title": "Sama-sama nating harapin ang bagong umaga dito sa Rise and Shine Pilipinas! | October 29, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-10-28T23:42:55.690538Z"
   },
   "bbc": {
