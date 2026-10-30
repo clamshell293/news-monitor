@@ -14,14 +14,14 @@
   "nbc": {
     "video_id": "6ja04ljfjR8",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Oct. 29",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-10-29T22:05:20.669319Z"
   },
   "cbs": {
-    "video_id": "AD9eA3W0xNU",
+    "video_id": "ELzc0rfQY6I",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-10-29T17:07:40.060499Z"
+    "last_search": "2026-10-30T02:12:25.709415Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-29T17:07:40.913293Z"
+    "last_search": "2026-10-30T02:12:25.855345Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,14 +86,14 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平就列車事故向西班牙國王致慰問電｜內塔尼亞胡料看守內閣 攻打伊朗概率升｜中方降級出席東盟防長擴大會｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】二十屆五中全會公報 習近平發表重要講話｜特朗普避談巴西選舉合法性 願與盧拉談｜大批美軍機飛抵中東多國基地備戰｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "0NJ_CEzTg8E",
+    "video_id": "H-ukXnrdbm4",
     "status": "live",
-    "video_title": "'벼랑 끝' 트럼프, 전쟁 끝내나…미 부통령, 이란과 '물밑' 접촉 [이슈픽] / YTN",
-    "last_search": "2026-10-29T17:07:41.197802Z"
+    "video_title": "백악관 집결한 미군 수뇌부…중동에 전력 추가 배치 [에디터픽] / YTN",
+    "last_search": "2026-10-30T02:12:26.220098Z"
   },
   "mbc-kr": {
     "video_id": "hVK4CEOMm-c",
@@ -102,22 +102,22 @@
     "last_search": "2026-10-29T17:07:41.450518Z"
   },
   "sbs-kr": {
-    "video_id": "m-JhNx7dujI",
+    "video_id": "FbI2ocGw-u8",
     "status": "live",
-    "video_title": "[🔴이슈] 모레노 국가대표팀 감독 '불화설 주축' 모두 발탁..\"주장은 손흥민이다\" / SBS 이슈라이브",
-    "last_search": "2026-10-29T17:07:41.668194Z"
+    "video_title": "[🔴LIVE] '7명 사망' 울산화력 보일러 타워 붕괴사고 조사 결과 발표 / SBS 실시간 LIVE",
+    "last_search": "2026-10-30T02:12:26.510469Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-29T17:07:41.815074Z"
+    "video_id": "zjRdUN2u8L0",
+    "status": "live",
+    "video_title": "Kabayan | DZMM Teleradyo | (30 October 2026)",
+    "last_search": "2026-10-30T02:12:26.848451Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-10-29T17:07:41.970131Z"
+    "video_id": "3ciHLDghYWs",
+    "status": "live",
+    "video_title": "LIVE - NLEX Traffic Update for Undas (Oct. 30, 2026) | GMA News",
+    "last_search": "2026-10-30T02:12:27.131324Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-10-29T17:07:42.089648Z"
+    "last_search": "2026-10-30T02:12:27.317082Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
