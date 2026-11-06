@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "0uwAtfBIVx0",
+    "video_id": "rLQn87cLJTE",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-11-06T08:38:05.929896Z"
+    "video_title": "LIVE: NBC News NOW - Nov. 6",
+    "last_search": "2026-11-06T16:22:58.111627Z"
   },
   "cbs": {
-    "video_id": "hs3DWpXnq1U",
+    "video_id": "qnTjYpH1FOY",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-11-06T01:12:40.787016Z"
+    "last_search": "2026-11-06T16:22:58.383725Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,15 +36,15 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "__z6SEQdGZY",
+    "video_id": "VpqrhvuOLis",
     "status": "live",
-    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月6日）｜TBS NEWS DIG",
-    "last_search": "2026-11-06T08:38:06.392885Z"
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月6日）｜TBS NEWS DIG",
+    "last_search": "2026-11-06T16:22:58.871554Z"
   },
   "ann": {
     "video_id": "naT1UhbJ_kw",
     "status": "live",
-    "video_title": "【ライブ/LIVE】東京スカイツリー 隅田川｜Tokyo Skytree  情報カメラ【LIVE】(2026年11月6日) ANN/テレ朝",
+    "video_title": "【ライブ/LIVE】東京スカイツリー 夜景と隅田川 — お好きな音楽とリラックス —｜Tokyo Skytree  情報カメラ【LIVE】(2026年11月6日) ANN/テレ朝",
     "last_search": "2026-11-06T08:38:06.689499Z"
   },
   "global": {
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-06T08:38:06.859977Z"
+    "last_search": "2026-11-06T16:22:59.013048Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】特朗普將美國股市大跌歸咎於民主黨｜法國舉行全國性大罷工 160萬人參加｜數千名美軍待命對伊朗軍事行動計劃｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平會見奧地利總理施托克爾｜特朗普：俄烏戰爭快結束 協議或涉全歐｜中方：一年過去了 日本當局仍在原地打轉｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "h-lzWGqFdfE",
+    "video_id": "fhLV4_FxX6k",
     "status": "live",
-    "video_title": "코스피, 5천선 턱걸이 마감…장중 4,900선까지 밀려 [YTN실시간뉴스]",
-    "last_search": "2026-11-06T08:38:07.138851Z"
+    "video_title": "트럼프, 기어코 \"300%\"…국제사회 허 찌른 '기습 발언' [이슈픽] / YTN",
+    "last_search": "2026-11-06T16:22:59.221011Z"
   },
   "mbc-kr": {
-    "video_id": "GodHxShxbiM",
+    "video_id": "NGi96lrY_xM",
     "status": "live",
-    "video_title": "더불어민주당, 금융시장 안정 및 투자자 보호를 위한 긴급 간담회 - [끝까지LIVE] MBC중계방송 2026년 11월 06일",
-    "last_search": "2026-11-06T08:38:07.390392Z"
+    "video_title": "'이러려고 대통령?'..1년새 4조 원 '돈벼락', \"트럼프 카르텔 싹다 조사\" 칼 빼든 민주당 - [핫이슈PLAY] MBC뉴스 2026년 11월 06일",
+    "last_search": "2026-11-06T16:22:59.539125Z"
   },
   "sbs-kr": {
-    "video_id": "S6bCZVyU1K8",
+    "video_id": "oVJ5sKrMakc",
     "status": "live",
-    "video_title": "[🔴LIVE] 행정안전부, 김종철 경찰청 차장 경찰청장 후보로 제청 / SBS 실시간 라이브",
-    "last_search": "2026-11-06T08:38:07.728064Z"
+    "video_title": "[🔴이슈] \"고물가에 못살겠다!\"..프랑스서 60만명 항의 시위 / SBS 실시간 라이브",
+    "last_search": "2026-11-06T16:22:59.748227Z"
   },
   "abs-cbn": {
-    "video_id": "2me1llxf2FI",
-    "status": "live",
-    "video_title": "LIVE: Metro Manila traffic situation and updates (Afternoon Rush Hour) | November 6, 2026",
-    "last_search": "2026-11-06T08:38:07.945884Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-11-06T16:22:59.987502Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-06T08:38:08.066437Z"
+    "last_search": "2026-11-06T16:23:00.204961Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-06T08:38:08.192211Z"
+    "last_search": "2026-11-06T16:23:00.362395Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
