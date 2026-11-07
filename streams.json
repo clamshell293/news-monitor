@@ -14,14 +14,14 @@
   "nbc": {
     "video_id": "4a4IWlRVth0",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 6",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-07T01:21:34.383359Z"
   },
   "cbs": {
-    "video_id": "qnTjYpH1FOY",
-    "status": "live",
-    "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-11-06T16:22:58.383725Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-11-07T07:53:07.582505Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "-GkuIqptdC8",
+    "video_id": "3F8QoFQpRvo",
     "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月7日）｜TBS NEWS DIG",
-    "last_search": "2026-11-07T01:21:34.880913Z"
+    "video_title": "【ライブ】土浦全国花火競技大会2026～日本三大花火～約20,000発が夜空彩る【土浦花火大会】 (2026年11月7日17:30～)｜TBS NEWS DIG",
+    "last_search": "2026-11-07T07:53:07.952416Z"
   },
   "ann": {
     "video_id": "naT1UhbJ_kw",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-07T01:21:35.065801Z"
+    "last_search": "2026-11-07T07:53:08.111300Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -90,34 +90,34 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "QWvjT2JEX88",
+    "video_id": "sn2udDxkCmw",
     "status": "live",
-    "video_title": "은밀한 침투 공격 후 침묵 깬 북한…시선 집중되는 한반도 [에디터픽] / YTN",
-    "last_search": "2026-11-07T01:21:35.400378Z"
+    "video_title": "중간선거 참패 후 '300% 폭탄' 꺼내든 트럼프…\"한국 기업들, 오히려 기회\" [이슈픽] / YTN",
+    "last_search": "2026-11-07T07:53:08.342309Z"
   },
   "mbc-kr": {
-    "video_id": "NGi96lrY_xM",
+    "video_id": "kdPoKLU9wOU",
     "status": "live",
-    "video_title": "'이러려고 대통령?'..1년새 4조 원 '돈벼락', \"트럼프 카르텔 싹다 조사\" 칼 빼든 민주당 - [핫이슈PLAY] MBC뉴스 2026년 11월 06일",
-    "last_search": "2026-11-06T16:22:59.539125Z"
+    "video_title": "트럼프, '선거 참패' 사흘만에 비서실장 수지 와일스에서 '강경파' 밀러로 교체.. '반이민 설계자' 낙점에 \"최악 선택\" - [핫이슈PLAY] MBC뉴스 2026년 11월 07일",
+    "last_search": "2026-11-07T07:53:08.546074Z"
   },
   "sbs-kr": {
-    "video_id": "oVJ5sKrMakc",
+    "video_id": "EGk8YMSNTVg",
     "status": "live",
-    "video_title": "[🔴이슈] \"고물가에 못살겠다!\"..프랑스서 60만명 항의 시위 / SBS 실시간 라이브",
-    "last_search": "2026-11-06T16:22:59.748227Z"
+    "video_title": "[🔴이슈] \"전쟁 난 줄 알았다!\"..주식 폭락에 잠 못든 밤 / SBS 실시간 라이브",
+    "last_search": "2026-11-07T07:53:08.734044Z"
   },
   "abs-cbn": {
-    "video_id": "IzmZkBria6w",
+    "video_id": "hp-1yrgjtIo",
     "status": "live",
-    "video_title": "LIVE: House Saturday News Forum on formal offer of evidence in VP Sara Duterte's impeachment trial",
-    "last_search": "2026-11-07T01:21:35.732538Z"
+    "video_title": "LIVE: Metro Manila traffic situation and updates (Afternoon Rush Hour) | November 7, 2026",
+    "last_search": "2026-11-07T07:53:08.940685Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-07T01:21:35.911811Z"
+    "last_search": "2026-11-07T07:53:09.066299Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-07T01:21:36.117406Z"
+    "last_search": "2026-11-07T07:53:09.183556Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
