@@ -21,7 +21,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-07T23:09:30.365895Z"
+    "last_search": "2026-11-08T09:38:21.728308Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-07T23:09:30.808016Z"
+    "video_id": "JMYQzw1dfjg",
+    "status": "live",
+    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月8日）｜TBS NEWS DIG",
+    "last_search": "2026-11-08T09:38:22.153369Z"
   },
   "ann": {
     "video_id": "naT1UhbJ_kw",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-07T23:09:31.015746Z"
+    "last_search": "2026-11-08T09:38:22.359961Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -96,28 +96,28 @@
     "last_search": "2026-11-08T02:53:57.296757Z"
   },
   "mbc-kr": {
-    "video_id": "7xZoT0OlKHw",
+    "video_id": "rkZATKWYDY0",
     "status": "live",
-    "video_title": "서울 '첫 눈' 관측‥겨울 문턱 쌀쌀 - [LIVE] MBC 뉴스 2026년 11월 08일",
-    "last_search": "2026-11-08T02:53:57.531957Z"
+    "video_title": "민주당·정부·청와대, 고위당정협의회 결과 브리핑 - [끝까지LIVE] MBC중계방송 2026년 11월 08일",
+    "last_search": "2026-11-08T09:38:22.704085Z"
   },
   "sbs-kr": {
-    "video_id": "Lv0HV2fva-M",
+    "video_id": "G_d_Wza30us",
     "status": "live",
-    "video_title": "[🔴이슈] \"전쟁 난 줄 알았다!\"..주식 폭락에 잠 못든 밤 / SBS 실시간 라이브",
-    "last_search": "2026-11-08T02:53:57.777583Z"
+    "video_title": "[🔴이슈 LIVE] '엔비디아 장녀' 방한 돌연 취소.. 아버지 의혹 때문? / SBS 실시간 라이브",
+    "last_search": "2026-11-08T09:38:22.999771Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-07T23:09:31.221257Z"
+    "video_id": "7Lv3-T21D2E",
+    "status": "live",
+    "video_title": "LIVE: TV Patrol Weekend Livestream | November 8, 2026 Full Episode",
+    "last_search": "2026-11-08T09:38:23.268742Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-07T23:09:31.423803Z"
+    "video_id": "JZ379ZH_cxw",
+    "status": "live",
+    "video_title": "24 Oras Weekend Livestream: November 8, 2026",
+    "last_search": "2026-11-08T09:38:23.529190Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-07T23:09:31.601450Z"
+    "last_search": "2026-11-08T09:38:23.732162Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
