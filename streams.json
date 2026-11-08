@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "k_85QSzdqd8",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月8日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-07T23:09:30.808016Z"
   },
   "ann": {
@@ -90,22 +90,22 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "Dghtk09OE58",
+    "video_id": "FnJBzHiKAIM",
     "status": "live",
-    "video_title": "'전쟁범죄 혐의' 네타냐후 구속되나…트럼프 폭탄선언에 '날벼락' [이슈픽] / YTN",
-    "last_search": "2026-11-07T19:07:03.202206Z"
+    "video_title": "트럼프 참패 직후 게슘섬 타격…백악관서 돌연 폭탄 발언 '섬뜩' [에디터픽] / YTN",
+    "last_search": "2026-11-08T02:53:57.296757Z"
   },
   "mbc-kr": {
-    "video_id": "kdPoKLU9wOU",
+    "video_id": "7xZoT0OlKHw",
     "status": "live",
-    "video_title": "트럼프, '선거 참패' 사흘만에 비서실장 수지 와일스에서 '강경파' 밀러로 교체.. '반이민 설계자' 낙점에 \"최악 선택\" - [핫이슈PLAY] MBC뉴스 2026년 11월 07일",
-    "last_search": "2026-11-07T07:53:08.546074Z"
+    "video_title": "서울 '첫 눈' 관측‥겨울 문턱 쌀쌀 - [LIVE] MBC 뉴스 2026년 11월 08일",
+    "last_search": "2026-11-08T02:53:57.531957Z"
   },
   "sbs-kr": {
-    "video_id": "EGk8YMSNTVg",
+    "video_id": "Lv0HV2fva-M",
     "status": "live",
     "video_title": "[🔴이슈] \"전쟁 난 줄 알았다!\"..주식 폭락에 잠 못든 밤 / SBS 실시간 라이브",
-    "last_search": "2026-11-07T07:53:08.734044Z"
+    "last_search": "2026-11-08T02:53:57.777583Z"
   },
   "abs-cbn": {
     "video_id": "",
