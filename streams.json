@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "lrZ_C9B4hZs",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 9",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-10T00:54:17.372457Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "MOlwle0lkyU",
+    "video_id": "bU5VuCH3FQ8",
     "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月10日）｜TBS NEWS DIG",
-    "last_search": "2026-11-10T00:54:18.336990Z"
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月10日）｜TBS NEWS DIG",
+    "last_search": "2026-11-10T07:50:29.624800Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-10T00:54:18.527025Z"
+    "last_search": "2026-11-10T07:50:29.788555Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,32 +86,32 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】特朗普：三航母待命 是否對伊朗動手視協議分量｜中方：美所謂中國間諜論調純屬捕風捉影｜美俄烏會談或觸及歐洲安全｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】美俄烏三方會談於10日下午開始｜特朗普：聯邦調查局已就黃仁勳事件啟動調查｜王毅會見斯洛伐克外交部長布拉納爾｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "Pt_6SDc7_9E",
+    "video_id": "Rd2tOAqbz-A",
     "status": "live",
-    "video_title": "민심 무시한 마이웨이 행보…참패에도 강경해진 트럼프 '폭주' [이슈픽] / YTN",
-    "last_search": "2026-11-09T17:53:16.483796Z"
+    "video_title": "시총 260조 증발·주주 집단소송까지…젠슨 황 흔들리자 엔비디아 '초유의 위기' [에디터픽] / YTN",
+    "last_search": "2026-11-10T07:50:30.116561Z"
   },
   "mbc-kr": {
-    "video_id": "LF9XNkQnqRM",
+    "video_id": "n-Yf59NbDfI",
     "status": "live",
-    "video_title": "스튜디오엔 '빨간 딱지'..\"은현장은 주주\" 대법 '쐐기', 엎친데 덮친 김세의..법정선 김수현 대면? - [핫이슈PLAY] MBC뉴스 2026년 11월 09일",
-    "last_search": "2026-11-09T17:53:16.774148Z"
+    "video_title": "[속보] \"청해부대 작전 구역 호르무즈 인근 확대\"..'우회 파병' 지적..\"전쟁 불관여 원칙\" - [MBC뉴스속보] MBC뉴스 2026년 11월 10일",
+    "last_search": "2026-11-10T07:50:30.476771Z"
   },
   "sbs-kr": {
-    "video_id": "PsZfLqooLY8",
+    "video_id": "mVvGj-jVt-4",
     "status": "live",
-    "video_title": "[🔴LIVE] '조작기소 특검법 규탄' 국민의힘 청와대 앞 현장의원총회 생중계 / SBS 실시간 라이브",
-    "last_search": "2026-11-10T00:54:18.876247Z"
+    "video_title": "[🔴LIVE] '이첩률 0.09%' 사건 핑퐁 현실화?...김지용 중수청장, 경찰청 방문 / SBS 실시간 라이브",
+    "last_search": "2026-11-10T07:50:30.857822Z"
   },
   "abs-cbn": {
-    "video_id": "qElj19UoJCQ",
+    "video_id": "8m8EKYJD84s",
     "status": "live",
-    "video_title": "Tandem ng Bayan | DZMM TeleRadyo | (10 November 2026)",
-    "last_search": "2026-11-10T00:54:19.224688Z"
+    "video_title": "LIVE: Impeachment Trial of VP Sara Duterte | ABS-CBN News Special Coverage - DAY 41 (Nov. 10, 2026)",
+    "last_search": "2026-11-10T07:50:31.134738Z"
   },
   "gma": {
     "video_id": "xMzw2rgOEts",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-10T00:54:19.805887Z"
+    "video_id": "epWxdJ5zT08",
+    "status": "live",
+    "video_title": "The Impeachment Trial: Katotohanan. Pananagutan. Katarungan — A PTV Special Coverage | 10 November",
+    "last_search": "2026-11-10T07:50:31.416508Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
