@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "cX0nrZnRPJI",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 10",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-11T01:31:39.991979Z"
   },
   "cbs": {
@@ -38,7 +38,7 @@
   "tbs": {
     "video_id": "zApXshxhwUI",
     "status": "live",
-    "video_title": "【国会中継・ライブ】参議院本会議　高市総理も出席　食料品の消費税減税法案が審議入り（2026年11月11日午前10時～ LIVE配信）｜TBS NEWS DIG",
+    "video_title": "【国会中継・リプレイ】参議院本会議　高市総理も出席　食料品の消費税減税法案が審議入り（2026年11月11日午前10時～ LIVE配信）｜TBS NEWS DIG",
     "last_search": "2026-11-11T01:31:40.827903Z"
   },
   "ann": {
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-11T01:31:41.013674Z"
+    "last_search": "2026-11-11T08:30:14.857023Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,32 +86,32 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】美軍加油機撤離英國基地 美媒稱伊朗或構成威脅｜與俄會談前 烏美歐代表先見面｜特朗普質疑中選公正性惟未提供證據｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】烏總統稱職責不是取悅特朗普 再呼籲凍結接觸線｜拜登遭親巴勒斯坦示威者丟擲牛奶盒抗議｜王毅會見古巴黨和政府特使｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "ay5NoP28AD4",
+    "video_id": "4p5muLLCnPQ",
     "status": "live",
-    "video_title": "역대급 스캔들로 드러난 '취약점'…미 재계 번지는 '긴장' [이슈픽] / YTN",
-    "last_search": "2026-11-10T15:52:02.358397Z"
+    "video_title": "서울 성북구에서 '10대 여성 살해' 50대 긴급체포 [YTN실시간뉴스]",
+    "last_search": "2026-11-11T08:30:15.160232Z"
   },
   "mbc-kr": {
     "video_id": "cguPyKVGTLY",
     "status": "live",
-    "video_title": "[속보] 분당서 버스가 차량 32대 연쇄 추돌..48명 중경상..부상자 늘어날 듯 - [MBC뉴스속보] MBC뉴스 2026년 11월 11일",
+    "video_title": "[속보] 분당서 버스가 차량 32대 연쇄 추돌..사고 당시 CCTV..수십명 중경상 - [MBC뉴스속보] MBC뉴스 2026년 11월 11일",
     "last_search": "2026-11-11T01:31:41.372163Z"
   },
   "sbs-kr": {
-    "video_id": "8Vu26o6zWgI",
+    "video_id": "MGp332-OX_U",
     "status": "live",
-    "video_title": "[🔴LIVE] 조정식 국회의장 초청 관훈클럽 토론회 생중계 / SBS 실시간 라이브",
-    "last_search": "2026-11-11T01:31:41.703752Z"
+    "video_title": "[🔴LIVE] 국민의힘 장동혁 대표 현안 관련 브리핑 / SBS 실시간 라이브",
+    "last_search": "2026-11-11T08:30:15.675032Z"
   },
   "abs-cbn": {
-    "video_id": "okNeRP1SA1I",
+    "video_id": "RhV-sGQrexE",
     "status": "live",
-    "video_title": "LIVE: House Transportation panel deliberates on LTO, LTFRB & MARINA office upgrades nationwide",
-    "last_search": "2026-11-11T01:31:42.019909Z"
+    "video_title": "LIVE: Impeachment Trial of VP Sara Duterte | ABS-CBN News Special Coverage - DAY 42 (Nov. 11, 2026)",
+    "last_search": "2026-11-11T08:30:15.962387Z"
   },
   "gma": {
     "video_id": "K0tPn7wRzzE",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-11T01:31:42.579937Z"
+    "video_id": "dPeoZZGMn-0",
+    "status": "live",
+    "video_title": "The Impeachment Trial: Katotohanan. Pananagutan. Katarungan — A PTV Special Coverage | 11 November",
+    "last_search": "2026-11-11T08:30:16.246465Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
