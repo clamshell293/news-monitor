@@ -14,14 +14,14 @@
   "nbc": {
     "video_id": "D_pDLnaeFVw",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 11",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-11T23:09:57.198190Z"
   },
   "cbs": {
-    "video_id": "q8Puv82CkFw",
+    "video_id": "_0ato-fy2sM",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-11-11T16:41:46.785015Z"
+    "last_search": "2026-11-12T04:32:21.374488Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "4HYfpyWpuo4",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月12日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-11T23:09:57.633256Z"
   },
   "ann": {
@@ -86,37 +86,37 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】歐洲代表未直接參與美俄烏正式會議｜李強將赴菲律賓出席中國東盟領導人會議｜肯尼迪家族下場 阻止特朗普修建凱旋門｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】伊朗警告擴大反擊 歐洲美軍基地或成目標｜俄烏原則同意大規模換俘 領土問題仍存分歧｜王毅同美國務卿魯比奧通電話｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "NG1leCV9xtQ",
+    "video_id": "AYXPr0ykYd8",
     "status": "live",
-    "video_title": "중국 내부 기류도 불안한데…시진핑, 트럼프 변수에 '경계' [이슈픽] / YTN",
-    "last_search": "2026-11-11T16:41:47.766105Z"
+    "video_title": "실각 위기 네타냐후…트럼프 바짓가랑이 잡고 '발악' [에디터픽] / YTN",
+    "last_search": "2026-11-12T04:32:21.725393Z"
   },
   "mbc-kr": {
     "video_id": "De1RnHCuXBI",
     "status": "live",
-    "video_title": "[속보] \"엔비디아 이사회, 젠슨황 해임 준비..이르면 오늘 회의\" - [MBC뉴스속보] MBC뉴스 2026년 11월 12일",
+    "video_title": "[속보] \"엔비디아 이사회, 젠슨황 해임 준비..이르면 오늘 회의\" ..\"사내 임원과도 불륜\" - [MBC뉴스속보] MBC뉴스 2026년 11월 12일",
     "last_search": "2026-11-11T23:09:57.980516Z"
   },
   "sbs-kr": {
-    "video_id": "QWvLSPc4Fkc",
+    "video_id": "kUtabDqIpiU",
     "status": "live",
-    "video_title": "[🔴속보] 엔비디아 이사회가 계속 지켜줄까..'대체 불가 1인자' 리더십 '흔들' / SBS 실시간 라이브",
-    "last_search": "2026-11-11T16:41:48.088358Z"
+    "video_title": "[🔴속보] \"폭파하겠다\" 혼돈의 테러 협박.. 유럽 학교 7천여 곳 대피 소동 / SBS 실시간 라이브",
+    "last_search": "2026-11-12T04:32:22.011367Z"
   },
   "abs-cbn": {
-    "video_id": "4gQk3OiGrt4",
-    "status": "live",
-    "video_title": "Radyo Patrol Balita Ala-Siyete Gising Pilipinas| DZMM Teleradyo | (12 November 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-11T23:09:58.202299Z"
   },
   "gma": {
-    "video_id": "EdM1sfW9VkE",
-    "status": "live",
-    "video_title": "Unang Hirit Livestream: November 12, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-11T23:09:58.375868Z"
   },
   "news5": {
@@ -126,9 +126,9 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "1aAch6OieEs",
-    "status": "live",
-    "video_title": "Sama-sama nating harapin ang bagong umaga dito sa Rise and Shine Pilipinas! | November 12, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-11T23:09:58.550509Z"
   },
   "bbc": {
