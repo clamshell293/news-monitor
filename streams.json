@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "D_pDLnaeFVw",
+    "video_id": "cWdSlxa4Hhk",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-11-11T23:09:57.198190Z"
+    "video_title": "LIVE: NBC News NOW - Nov. 12",
+    "last_search": "2026-11-12T13:21:51.279981Z"
   },
   "cbs": {
-    "video_id": "_0ato-fy2sM",
+    "video_id": "dYHB6G1GGWc",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-11-12T04:32:21.374488Z"
+    "last_search": "2026-11-12T13:21:51.618726Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-11T23:09:57.633256Z"
+    "video_id": "ZBu3ja7vMeo",
+    "status": "live",
+    "video_title": "【エヌビディアCEO解任準備か】ジェンスン・フアン氏「部下とも不倫関係」と報道/“後継者存在しない”との見方も/ハニートラップ？中国の女性スパイと“親密関係”か【ニュースライブ】",
+    "last_search": "2026-11-12T13:21:52.279148Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -50,14 +50,14 @@
   "global": {
     "video_id": "Y8eZYHy8BDc",
     "status": "live",
-    "video_title": "納坦雅胡時代終結? 艾森科特開始進行組閣工作 ｜美伊談判停滯 川普:有進展就極不可能發動新攻擊   寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
+    "video_title": "美伊戰爭停火雙方皆稱願談判 伊朗強調美須給最後答覆  ｜美烏俄結束阿布達比對話 僅同意進行大規模換俘  寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
     "last_search": "2026-10-13T08:35:33.782071Z"
   },
   "tvbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-11T23:09:57.744921Z"
+    "last_search": "2026-11-12T13:21:52.496118Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】伊朗警告擴大反擊 歐洲美軍基地或成目標｜俄烏原則同意大規模換俘 領土問題仍存分歧｜王毅同美國務卿魯比奧通電話｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平：共同反對“台獨”分裂 實現祖國完全統一｜普京與美總統特使舉行會談｜伊朗：美須落實七項條件方可恢復談判｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "AYXPr0ykYd8",
+    "video_id": "6zUWsy7xzUc",
     "status": "live",
-    "video_title": "실각 위기 네타냐후…트럼프 바짓가랑이 잡고 '발악' [에디터픽] / YTN",
-    "last_search": "2026-11-12T04:32:21.725393Z"
+    "video_title": "트럼프 정책에 칼 빼 든 미 의회…셈법 복잡해진 한국 '비상' [이슈픽] / YTN",
+    "last_search": "2026-11-12T13:21:53.086849Z"
   },
   "mbc-kr": {
     "video_id": "De1RnHCuXBI",
     "status": "live",
-    "video_title": "[속보] \"엔비디아 이사회, 젠슨황 해임 준비..이르면 오늘 회의\" ..\"사내 임원과도 불륜\" - [MBC뉴스속보] MBC뉴스 2026년 11월 12일",
+    "video_title": "[속보] \"엔비디아 이사회, 젠슨황 해임 준비\"..'직보 임원'과 또 불륜  \"앨리스 황은 베이징 체류\"..주가 급락 - [MBC뉴스속보] MBC뉴스 2026년 11월 12일",
     "last_search": "2026-11-11T23:09:57.980516Z"
   },
   "sbs-kr": {
-    "video_id": "kUtabDqIpiU",
+    "video_id": "S4YrB2xuOO0",
     "status": "live",
-    "video_title": "[🔴속보] \"폭파하겠다\" 혼돈의 테러 협박.. 유럽 학교 7천여 곳 대피 소동 / SBS 실시간 라이브",
-    "last_search": "2026-11-12T04:32:22.011367Z"
+    "video_title": "[🔴LIVE] 첫 경기 '무너진 마운드'..호주에 충격의 '역전패' / SBS 실시간 라이브",
+    "last_search": "2026-11-12T13:21:53.407468Z"
   },
   "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-11T23:09:58.202299Z"
+    "last_search": "2026-11-12T13:21:53.569365Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-11T23:09:58.375868Z"
+    "video_id": "yY8c0rXzxoM",
+    "status": "live",
+    "video_title": "Traffic situation in Metro Manila (Nov. 12, 2025) | GMA News",
+    "last_search": "2026-11-12T13:21:53.877482Z"
   },
   "news5": {
     "video_id": "",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-11T23:09:58.550509Z"
+    "video_id": "5i5PP9IVAKk",
+    "status": "live",
+    "video_title": "NOW: Get to know the biggest stories, trends and latest reports on PTV News Tonight | Nov. 12, 2026",
+    "last_search": "2026-11-12T13:21:54.165721Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
