@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "cWdSlxa4Hhk",
+    "video_id": "g4vI3ZplCys",
     "status": "live",
     "video_title": "LIVE: NBC News NOW - Nov. 12",
-    "last_search": "2026-11-12T13:21:51.279981Z"
+    "last_search": "2026-11-13T02:12:06.696693Z"
   },
   "cbs": {
-    "video_id": "dYHB6G1GGWc",
+    "video_id": "7IhhvdVUlKM",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-11-12T13:21:51.618726Z"
+    "last_search": "2026-11-13T02:12:06.988160Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "ZaecP_FEOMU",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月13日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-12T21:11:05.232342Z"
   },
   "ann": {
@@ -86,31 +86,31 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平：共同反對“台獨”分裂 實現祖國完全統一｜普京與美總統特使舉行會談｜伊朗：美須落實七項條件方可恢復談判｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平將出席APEC領導人非正式會議｜英偉達宣佈首席執行官黃仁勳辭職｜美媒：美國對伊朗陸路圍堵計劃未奏效｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "6zUWsy7xzUc",
+    "video_id": "k16RsFmSoA8",
     "status": "live",
-    "video_title": "트럼프 정책에 칼 빼 든 미 의회…셈법 복잡해진 한국 '비상' [이슈픽] / YTN",
-    "last_search": "2026-11-12T13:21:53.086849Z"
+    "video_title": "젠슨 황 스캔들 불똥, 결국 트럼프까지...백악관 '발칵' [에디터픽] / YTN",
+    "last_search": "2026-11-13T02:12:07.301472Z"
   },
   "mbc-kr": {
-    "video_id": "1FAkQJr8qT0",
-    "status": "live",
-    "video_title": "젠슨 황 '불명예 퇴진'‥뉴욕 기술주 '휘청' - [LIVE] MBC 뉴스투데이 2026년 11월 13일",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-12T21:11:05.688172Z"
   },
   "sbs-kr": {
-    "video_id": "e9NF50kHaFE",
-    "status": "live",
-    "video_title": "[🔴속보] 젠슨 황, 엔비디아 CEO 사임..CFO 콜레트 크레스가 임시 경영 / SBS 실시간 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-12T21:11:05.928283Z"
   },
   "abs-cbn": {
-    "video_id": "XQnuRgS8Hz4",
-    "status": "live",
-    "video_title": "Pasada Balita | DZMM Teleradyo | (13 November 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-12T21:11:06.205440Z"
   },
   "gma": {
