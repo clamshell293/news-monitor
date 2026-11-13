@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "g4vI3ZplCys",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 12",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-13T02:12:06.696693Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-12T21:11:05.232342Z"
+    "video_id": "cJNmJAWmsrI",
+    "status": "live",
+    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月13日）｜TBS NEWS DIG",
+    "last_search": "2026-11-13T10:10:31.628699Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-12T21:11:05.399639Z"
+    "last_search": "2026-11-13T10:10:31.764357Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平將出席APEC領導人非正式會議｜英偉達宣佈首席執行官黃仁勳辭職｜美媒：美國對伊朗陸路圍堵計劃未奏效｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】伊朗時隔兩個月再襲中東美軍設施｜特朗普斥民主黨腐敗 籲共和黨奮力抗爭｜澤連斯基同美總統特使舉行會談｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "k16RsFmSoA8",
+    "video_id": "_wtNJKQtPTw",
     "status": "live",
-    "video_title": "젠슨 황 스캔들 불똥, 결국 트럼프까지...백악관 '발칵' [에디터픽] / YTN",
-    "last_search": "2026-11-13T02:12:07.301472Z"
+    "video_title": "'불화설' 축구대표팀, 오늘 밤 사우디전…손흥민 \"경기력으로 보답\" [YTN실시간뉴스]",
+    "last_search": "2026-11-13T10:10:32.010140Z"
   },
   "mbc-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-12T21:11:05.688172Z"
+    "video_id": "DOiDvjfx-nQ",
+    "status": "live",
+    "video_title": "한 발 빠른 오늘의 D-뉴스.. '결국 한덕수 석방 못 막는다'.. 대법 벽 느낀 특검 '고육지책' - [LIVE] MBC뉴스데스크 2026년 11월 13일",
+    "last_search": "2026-11-13T10:10:32.266718Z"
   },
   "sbs-kr": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-12T21:11:05.928283Z"
+    "video_id": "l-OzChaJcls",
+    "status": "live",
+    "video_title": "[LIVE] 젠슨 황, CEO 자리서 사실상 퇴출…미 의회 \"퇴진해도 청문회\" - SBS 8뉴스/ 11/13(금)",
+    "last_search": "2026-11-13T10:10:32.558727Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-12T21:11:06.205440Z"
+    "video_id": "4CabHa2n0uw",
+    "status": "live",
+    "video_title": "LIVE: Metro Manila traffic situation and updates (Evening Rush Hour) | November 13, 2026",
+    "last_search": "2026-11-13T10:10:32.837954Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-12T21:11:06.348206Z"
+    "video_id": "nzR4KC380gk",
+    "status": "live",
+    "video_title": "24 Oras Livestream: November 13, 2026",
+    "last_search": "2026-11-13T10:10:33.146473Z"
   },
   "news5": {
     "video_id": "",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-12T21:11:06.475489Z"
+    "video_id": "5lKVjZVl5ng",
+    "status": "live",
+    "video_title": "NGAYON: Alamin ang mga maiinit na balita sa Ulat Bayan | November 13, 2026",
+    "last_search": "2026-11-13T10:10:33.354598Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
