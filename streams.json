@@ -21,7 +21,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-15T15:55:47.890328Z"
+    "last_search": "2026-11-16T00:28:02.082669Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-15T15:55:48.373384Z"
+    "video_id": "1Dy3L_LPl_U",
+    "status": "live",
+    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月16日）｜TBS NEWS DIG",
+    "last_search": "2026-11-16T00:28:02.669963Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-15T15:55:48.561855Z"
+    "last_search": "2026-11-16T00:28:02.897722Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -102,22 +102,22 @@
     "last_search": "2026-11-15T15:55:48.949568Z"
   },
   "sbs-kr": {
-    "video_id": "llrzSmzyhMI",
+    "video_id": "qcbUI2IKla0",
     "status": "live",
-    "video_title": "[🔴LIVE] 임광현 대통령 비서실장 브리핑 / SBS 실시간 라이브",
-    "last_search": "2026-11-15T08:31:23.037730Z"
+    "video_title": "[🔴LIVE] '조작기소 특검법 규탄' 국민의힘 청와대 앞 현장최고위원회의 생중계 / SBS 실시간 라이브",
+    "last_search": "2026-11-16T00:28:03.137924Z"
   },
   "abs-cbn": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-15T15:55:49.141618Z"
+    "video_id": "YAGMkjm8j14",
+    "status": "live",
+    "video_title": "LIVE: 49th ASEAN Summit and Related Summits | The ABS-CBN News Special Coverage (Nov. 16, 2026)",
+    "last_search": "2026-11-16T00:28:03.414588Z"
   },
   "gma": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-15T15:55:49.335881Z"
+    "video_id": "04thE-YF27g",
+    "status": "live",
+    "video_title": "LIVE – 49th #ASEAN2026 Summit and Related Summits, traffic situation (Nov. 16, 2026) | GMA News",
+    "last_search": "2026-11-16T00:28:03.655077Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-15T15:55:49.546267Z"
+    "last_search": "2026-11-16T00:28:03.848975Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
