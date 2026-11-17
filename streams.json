@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "C5BUYsiW9n4",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 16",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-17T01:10:34.218294Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "k2mB6oK91Pg",
+    "video_id": "p31FkA0-bdQ",
     "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月17日）｜TBS NEWS DIG",
-    "last_search": "2026-11-17T01:10:38.104022Z"
+    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月17日）｜TBS NEWS DIG",
+    "last_search": "2026-11-17T09:48:14.542929Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-17T01:10:38.313874Z"
+    "last_search": "2026-11-17T09:48:14.806828Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,14 +86,14 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平將同普京特朗普於周四舉行中俄美元首會晤｜伊朗：空襲巴林境內美軍防空雷達｜俄稱克里米亞大橋遭襲 交通受限｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平將同普京特朗普於周四舉行中俄美元首會晤｜習近平會見加拿大總理卡尼｜APEC高官會主席：期待中俄美元首會｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "NgSzsB5Dzss",
+    "video_id": "6MbC2saKL_k",
     "status": "live",
-    "video_title": "미국 전역이 멈췄는데 \"내 책임 아냐\"...거센 후폭풍에 트럼프 '비상' [에디터픽] / YTN",
-    "last_search": "2026-11-17T01:10:38.678225Z"
+    "video_title": "'부정행위' 세무사, 경찰 출석…\"수험생에 죄송\" [YTN 실시간뉴스]",
+    "last_search": "2026-11-17T09:48:15.100519Z"
   },
   "mbc-kr": {
     "video_id": "iOauVsd88Sg",
@@ -102,10 +102,10 @@
     "last_search": "2026-11-17T01:10:39.026119Z"
   },
   "sbs-kr": {
-    "video_id": "7GXwCwO584g",
+    "video_id": "yKvK9TuAW-g",
     "status": "live",
-    "video_title": "[🔴LIVE] '조작기소 특검법' 의결 반대, 국민의힘 청와대 앞의원총회 생중계 / SBS 실시간 라이브",
-    "last_search": "2026-11-17T01:10:39.332674Z"
+    "video_title": "[🔴LIVE] \"비온 뒤 더 춥다\" 제주에 장대비.. \"패딩 꺼내세요\" 수능 날 영하로 '뚝'.. 이 시각 전국 CCTV / SBS 실시간 라이브",
+    "last_search": "2026-11-17T09:48:15.335396Z"
   },
   "abs-cbn": {
     "video_id": "rq6oj2ta3Gw",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-17T01:10:40.152610Z"
+    "video_id": "h7qlXMVqAQI",
+    "status": "live",
+    "video_title": "WATCH: U.S. President Donald Trump arrived in the Philippines this Tuesday, Nov. 17.",
+    "last_search": "2026-11-17T09:48:15.589267Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
