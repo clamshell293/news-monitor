@@ -12,16 +12,16 @@
     "last_search": "2026-09-27T07:06:30.655823Z"
   },
   "nbc": {
-    "video_id": "mRiwuwH2Tlk",
+    "video_id": "AowNYm8dxFA",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW",
-    "last_search": "2026-11-19T00:48:50.576257Z"
+    "video_title": "LIVE: NBC News NOW - Nov. 19",
+    "last_search": "2026-11-19T17:46:43.329073Z"
   },
   "cbs": {
-    "video_id": "3jW0K6C7zHQ",
+    "video_id": "YwMKWQd1W7Y",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-11-19T00:48:50.815405Z"
+    "last_search": "2026-11-19T17:46:43.564998Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -32,14 +32,14 @@
   "bloomberg": {
     "video_id": "QB5BNdBFujE",
     "status": "live",
-    "video_title": "Bloomberg Business News Live",
+    "video_title": "Anthropic to Start Trading on Nasdaq | Bloomberg Business News Live",
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "c3CGsqxTkww",
+    "video_id": "cK_aKbDPALU",
     "status": "live",
-    "video_title": "【米中ロ首脳会談】3か国首脳による“政治ショー”の意味合いも強く/注目は“歴史観”トランプ氏「核兵器削減は難しい」とも / 事前に米ロ・米中がそれぞれ会談【ニュースライブ/随時更新】",
-    "last_search": "2026-11-19T08:03:50.629676Z"
+    "video_title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月19日）｜TBS NEWS DIG",
+    "last_search": "2026-11-19T17:46:44.006397Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-19T08:03:50.785974Z"
+    "last_search": "2026-11-19T17:46:44.154552Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平將同普京特朗普於今日舉行中俄美元首會晤｜習近平深圳會見美國總統特朗普｜俄美元首在深圳舉行雙邊會晤｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平同普京特朗普舉行中俄美元首會晤｜中俄美元首和平宣言發佈｜特朗普啟程返回美國 王毅等中方官員在機場送行｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "uyXhTUX0tLE",
+    "video_id": "IvAnU2FWiu8",
     "status": "live",
-    "video_title": "[속보] 김건희 '징역 4년 확정' 특검팀 입장 주목…이 시각 대법원 / YTN",
-    "last_search": "2026-11-19T08:03:51.050414Z"
+    "video_title": "쿠웨이트·바레인까지 흔들렸다…이란 공세에 중동 '심상찮은 기류' [이슈픽] / YTN",
+    "last_search": "2026-11-19T17:46:44.480455Z"
   },
   "mbc-kr": {
     "video_id": "mTUvKsFtwvk",
     "status": "live",
-    "video_title": "[속보] '리트 만점자' 이진우 씨 심정지..\"힘들었다\" 유서 추정 메모 발견 - [MBC 뉴스속보] MBC뉴스 2026년 11월 19일",
+    "video_title": "[속보] '리트 만점자' 이진우 씨 결국..\"힘들었다\" 유서 추정 메모 발견 - [MBC 뉴스속보] MBC뉴스 2026년 11월 19일",
     "last_search": "2026-11-19T00:48:51.303708Z"
   },
   "sbs-kr": {
-    "video_id": "9DubBJ-SWlA",
+    "video_id": "lXSl7w_Jxhk",
     "status": "live",
-    "video_title": "[🔴속보] 경고에도 결국 '초소형카메라·이어폰' 나왔다..'수능 재수생' 추정 / 신발 안에 휴대전화가...서울 서초구 수능 고사장도 부정행위 의혹 / SBS 실시간 라이브",
-    "last_search": "2026-11-19T08:03:51.403116Z"
+    "video_title": "[🔴속보] 한덕수, '내란 혐의' 파기환송..김건희, 징역 4년 확정 / SBS 실시간 라이브",
+    "last_search": "2026-11-19T17:46:44.712139Z"
   },
   "abs-cbn": {
-    "video_id": "aYvnJFEP8g8",
-    "status": "live",
-    "video_title": "LIVE: Impeachment Trial of Vice President Sara Duterte - Day 44 | ABS-CBN News (November 19, 2026)",
-    "last_search": "2026-11-19T08:03:51.623971Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-11-19T17:46:44.828799Z"
   },
   "gma": {
-    "video_id": "cjqghJ6tHiU",
-    "status": "live",
-    "video_title": "LIVE - Impeachment Trial of VP Sara Duterte - DAY 44 (Nov. 19, 2026) | GMA News Special Coverage",
-    "last_search": "2026-11-19T00:48:52.145922Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-11-19T17:46:44.971383Z"
   },
   "news5": {
     "video_id": "",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "vqd0z_BEwvw",
-    "status": "live",
-    "video_title": "The Impeachment Trial: Katotohanan. Pananagutan. Katarungan — A PTV Special Coverage | 19 November",
-    "last_search": "2026-11-19T08:03:51.884516Z"
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
+    "last_search": "2026-11-19T17:46:45.128971Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
