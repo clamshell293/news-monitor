@@ -14,14 +14,14 @@
   "nbc": {
     "video_id": "Qj_oQ0yQAME",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 19",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-19T23:57:00.134234Z"
   },
   "cbs": {
-    "video_id": "YwMKWQd1W7Y",
+    "video_id": "-XgqNLGYxHU",
     "status": "live",
     "video_title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "last_search": "2026-11-19T17:46:43.564998Z"
+    "last_search": "2026-11-20T05:05:31.036953Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,9 +36,9 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "Q58845BIa8U",
-    "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月20日）｜TBS NEWS DIG",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-19T23:57:00.673390Z"
   },
   "ann": {
@@ -50,7 +50,7 @@
   "global": {
     "video_id": "Y8eZYHy8BDc",
     "status": "live",
-    "video_title": "黃仁勳請辭衝擊AI產業鏈 衝擊下的台灣是福是禍? ｜美烏俄結束阿布達比對話 同意進行大規模換俘  寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
+    "video_title": "美國晶片管制再升級 16奈米以下訂單喊停| 習近平坐鎮三角頂點 美媒:習和普丁是贏家  寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
     "last_search": "2026-10-13T08:35:33.782071Z"
   },
   "tvbs": {
@@ -86,31 +86,31 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】習近平同普京特朗普舉行中俄美元首會晤｜中俄美元首和平宣言發佈｜特朗普啟程返回美國 王毅等中方官員在機場送行｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】習近平中俄美元首會晤後送別普京｜普京高度評價中俄美元首會晤｜馬斯克自稱中國超級粉絲 讚賞高鐵及景觀｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "IvAnU2FWiu8",
+    "video_id": "jh2XFdlxspc",
     "status": "live",
-    "video_title": "쿠웨이트·바레인까지 흔들렸다…이란 공세에 중동 '심상찮은 기류' [이슈픽] / YTN",
-    "last_search": "2026-11-19T17:46:44.480455Z"
+    "video_title": "트럼프 중국 간 사이 아수라장 된 미국...곳곳서 '이상 징후' 속출 [에디터픽] / YTN",
+    "last_search": "2026-11-20T05:05:31.275274Z"
   },
   "mbc-kr": {
-    "video_id": "DikKPPhlbJw",
-    "status": "live",
-    "video_title": "조희대 대법원장 출근길 질의응답..탄핵 관련 질문 등 - [끝까지LIVE] MBC중계방송 2026년 11월 20일",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-19T23:57:01.417559Z"
   },
   "sbs-kr": {
-    "video_id": "uSGv7QHcIlc",
-    "status": "live",
-    "video_title": "[🔴LIVE] 충청•호남•제주 새벽부터 눈비...영하권 추위 지속, 찬 바람에 체감온도 '뚝' / SBS 실시간 라이브",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-19T23:57:01.752693Z"
   },
   "abs-cbn": {
-    "video_id": "aJewV4DxnxQ",
-    "status": "live",
-    "video_title": "Radyo Patrol Balita Ala-Siyete Gising Pilipinas| DZMM Teleradyo | (20 November 2026)",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-19T23:57:02.176230Z"
   },
   "gma": {
@@ -126,9 +126,9 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "PcWlEDS9cHQ",
-    "status": "live",
-    "video_title": "Sama-sama nating harapin ang bagong umaga dito sa Rise and Shine Pilipinas! | November 20, 2026",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-19T23:57:02.988274Z"
   },
   "bbc": {
