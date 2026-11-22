@@ -21,7 +21,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-21T18:20:37.148836Z"
+    "last_search": "2026-11-22T03:41:44.555627Z"
   },
   "abc-us": {
     "video_id": "KQhNZQ_Uag8",
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-21T18:20:37.687329Z"
+    "video_id": "TT-DgogD39Y",
+    "status": "live",
+    "video_title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月22日）｜TBS NEWS DIG",
+    "last_search": "2026-11-22T03:41:45.068000Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -57,7 +57,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-21T18:20:37.860442Z"
+    "last_search": "2026-11-22T03:41:45.233127Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -90,9 +90,9 @@
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "BffYWloF8Nc",
-    "status": "live",
-    "video_title": "김정은에 '2년 연속' 퇴짜…트럼프, 애써 외면한 채 민망한 귀국길 [이슈픽] / YTN",
+    "video_id": "",
+    "status": "offline",
+    "video_title": "",
     "last_search": "2026-11-21T23:36:35.435487Z"
   },
   "mbc-kr": {
@@ -102,22 +102,22 @@
     "last_search": "2026-11-21T11:51:25.544966Z"
   },
   "sbs-kr": {
-    "video_id": "f5yop9mo3X4",
+    "video_id": "YIhXuX1cv24",
     "status": "live",
     "video_title": "[🔴속보] \"미·중·러, 한반도 위협 논의\" 트럼프 백악관 기자회견 한글자막 풀영상 / SBS 속보라이브",
-    "last_search": "2026-11-21T11:51:25.744779Z"
+    "last_search": "2026-11-22T03:41:45.524651Z"
   },
   "abs-cbn": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-21T18:20:38.037467Z"
+    "last_search": "2026-11-22T03:41:45.709566Z"
   },
   "gma": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-21T18:20:38.267975Z"
+    "last_search": "2026-11-22T03:41:45.887458Z"
   },
   "news5": {
     "video_id": "",
@@ -129,7 +129,7 @@
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-21T18:20:38.483836Z"
+    "last_search": "2026-11-22T03:41:46.039136Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
