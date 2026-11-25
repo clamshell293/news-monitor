@@ -14,7 +14,7 @@
   "nbc": {
     "video_id": "8igLkrFYQ8k",
     "status": "live",
-    "video_title": "LIVE: NBC News NOW - Nov. 24",
+    "video_title": "LIVE: NBC News NOW",
     "last_search": "2026-11-25T01:09:23.517432Z"
   },
   "cbs": {
@@ -36,10 +36,10 @@
     "last_search": "2026-09-27T07:06:31.467624Z"
   },
   "tbs": {
-    "video_id": "FwaLTmN1JgM",
+    "video_id": "TjcGNvJ_0KU",
     "status": "live",
-    "video_title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月25日）｜TBS NEWS DIG",
-    "last_search": "2026-11-25T01:09:24.196995Z"
+    "video_title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月25日）｜TBS NEWS DIG",
+    "last_search": "2026-11-25T10:35:37.096059Z"
   },
   "ann": {
     "video_id": "Pmdk2kHf-l8",
@@ -50,14 +50,14 @@
   "global": {
     "video_id": "Y8eZYHy8BDc",
     "status": "live",
-    "video_title": "黃仁勳重返輝達掌舵！川普發文力挺讚「國寶」  寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
+    "video_title": "川普關稅大刀又來了！301調查最快本周公布  寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news",
     "last_search": "2026-10-13T08:35:33.782071Z"
   },
   "tvbs": {
     "video_id": "",
     "status": "offline",
     "video_title": "",
-    "last_search": "2026-11-25T01:09:24.390122Z"
+    "last_search": "2026-11-25T10:35:37.221604Z"
   },
   "setn": {
     "video_id": "w_dqgeGTlpw",
@@ -68,7 +68,7 @@
   "ebc": {
     "video_id": "V1p33hqPrUk",
     "status": "live",
-    "video_title": "🔴【黃仁勳重返輝達】東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
+    "video_title": "【16:47台東規模5.5地震】🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송",
     "last_search": "2026-09-27T07:06:37.653532Z"
   },
   "cti": {
@@ -86,38 +86,38 @@
   "phoenix": {
     "video_id": "Ry--eMIjYLQ",
     "status": "live",
-    "video_title": "【鳳凰衛視#24小時直播間 】神舟二十四號瞄準25日8時18分發射｜加州數百死刑犯改判終身監禁 州長遭特朗普猛批｜俄羅斯軍機逼近韓國領空｜24-hour live news｜24小时直播间#鳳凰衛視",
+    "video_title": "【鳳凰衛視#24小時直播間 】神舟二十四號與空間站完成自主交會對接｜特朗普政府擬推新關稅涉數十經濟體｜以色列正直黨敲定首份執政聯盟協議｜24-hour live news｜24小时直播间#鳳凰衛視",
     "last_search": "2026-09-27T07:06:38.228866Z"
   },
   "ytn": {
-    "video_id": "tKMv1GxljEI",
+    "video_id": "9SLJIRu9xuE",
     "status": "live",
-    "video_title": "해군기지서 푸틴 허 찌른 '대폭발'…\"유럽까지 휘말리며 3차대전 위기\" 초비상 [이슈픽] / YTN",
-    "last_search": "2026-11-24T16:34:35.159000Z"
+    "video_title": "엔비디아 손댔다가 부메랑 맞는 트럼프…\"자본주의 아닌 마오주의\" [YTN 실시간뉴스]",
+    "last_search": "2026-11-25T10:35:37.550000Z"
   },
   "mbc-kr": {
-    "video_id": "XfVU3vn4WSw",
+    "video_id": "zfhAKpkqHVQ",
     "status": "live",
-    "video_title": "\"재판거부? 황당..계엄 반성부터\" 현직판사 직격, 조희대 탄핵추진에 집단행동? 법원내부 '술렁'- [핫이슈PLAY] MBC뉴스 2026년 11월 24일",
-    "last_search": "2026-11-24T16:34:35.523577Z"
+    "video_title": "[속보] 공소청, 전광훈 목사 구속영장 청구..\"100억원 대 불법 정치자금 혐의\" - [MBC 뉴스속보] MBC뉴스 2026년 11월 25일",
+    "last_search": "2026-11-25T10:35:37.805865Z"
   },
   "sbs-kr": {
-    "video_id": "c7_NRWGEe44",
+    "video_id": "jNENX_IWxTQ",
     "status": "live",
-    "video_title": "[🔴속보] '이달만 3번째' 카디즈 무단 진입..동해서 활개치는 러시아 / SBS 실시간 라이브",
-    "last_search": "2026-11-24T16:34:35.750874Z"
+    "video_title": "[LIVE] 코스피, 6%대 급락해 4,697…전날 급등분 모두 반납 - SBS 8뉴스/ 11/25(수)",
+    "last_search": "2026-11-25T10:35:38.143252Z"
   },
   "abs-cbn": {
-    "video_id": "Fi_IlUTnBb8",
+    "video_id": "WbkYTZRSsCY",
     "status": "live",
-    "video_title": "Balitapatan | DZMM Teleradyo | (25 November 2026)",
-    "last_search": "2026-11-25T01:09:24.665566Z"
+    "video_title": "LIVE: Red Wednesday Mass from Shrine and Parish of Nuestra Señora de los Desamparados | Nov. 25,2026",
+    "last_search": "2026-11-25T10:35:38.356486Z"
   },
   "gma": {
-    "video_id": "Kw4rupnrpio",
+    "video_id": "fZU_6KtIrlA",
     "status": "live",
-    "video_title": "LIVE - DOTr press conference (Nov. 25, 2026) | GMA News",
-    "last_search": "2026-11-25T01:09:24.933380Z"
+    "video_title": "24 Oras Livestream: November 25, 2026",
+    "last_search": "2026-11-25T10:35:38.555875Z"
   },
   "news5": {
     "video_id": "",
@@ -126,10 +126,10 @@
     "last_search": "2026-10-08T20:17:42.946558Z"
   },
   "ptv-ph": {
-    "video_id": "",
-    "status": "offline",
-    "video_title": "",
-    "last_search": "2026-11-25T01:09:25.113136Z"
+    "video_id": "y7KvBaAcq5o",
+    "status": "live",
+    "video_title": "NGAYON: Alamin ang mga maiinit na balita sa Ulat Bayan | November 25, 2026",
+    "last_search": "2026-11-25T10:35:38.871392Z"
   },
   "bbc": {
     "video_id": "-NabWfv-VdA",
